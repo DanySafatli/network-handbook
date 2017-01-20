@@ -1,6 +1,10 @@
 # network-handbook README File
 ---
 # My Notes  
+
+# Table of Contents
+- [1. Network Architecture for CompTIA Network](### 1. Network Architecture for CompTIA Network)
+
 ### CompTIA+ Certification  
 
 Entry level certification
@@ -14,6 +18,7 @@ Entry level certification
 - Passing is 720 and above from scale 100-900
 
 ### 1. Network Architecture for CompTIA Network
+
 - Introducing network devices
 - Understanding network services and applications
 - Configuring network services and applications
@@ -46,6 +51,12 @@ Entry level certification
 - Switches store an in-memory MAC (aka media access control) table and provide dedicated bandwidth to each port (collision domain)
 
 #### Router
+- Operates at OSI Layer 3 (Network)
+- Seperate entire networks
+- Modular design (especially Cisco)
+
+#### Wireless 
+
 - Push my commits to GitHub
 - Open a pull request
   * Describe my changes
