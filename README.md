@@ -2,9 +2,7 @@
 ---
 # My Notes  
 
-# Table of Contents
-- [1. Network Architecture for CompTIA Network](### 1. Network Architecture for CompTIA Network)
-  * [Objective 1.1 - Explain the Functions and Applications of Various Network Devices](### Objective 1.1 - Explain the Functions and Applications of Various Network Devices )
+
 
 ### CompTIA+ Certification  
 
@@ -44,19 +42,40 @@ Entry level certification
   * Regenerate the signal  
 - One big collision domain
 - Good for network diagnostics and nothing else
+- Understanding network hubs -> (http://www.techiwarehouse.com/engine/5ea76190/Understading-Networking-Hubs/)
+- Bridges -> (http://compnetworking.about.com/cs/internetworking/g/bldef_bridge.htm)
 
 #### Switch
 - Successor to the bridge
 - Works at OSI Layer 2 (Data Link)
   * Can also function at OSI Layer 3 (Network)
 - Switches store an in-memory MAC (aka media access control) table and provide dedicated bandwidth to each port (collision domain)
+- Network Switch -> (https://en.wikipedia.org/wiki/Network_switch)
+- Difference Between Hubs, Switches, and Routers -> (http://www.webopedia.com/DidYouKnow/Hardware_Software/router_switch_hub.asp)
 
 #### Router
 - Operates at OSI Layer 3 (Network)
 - Seperate entire networks
 - Modular design (especially Cisco)
 
-#### Wireless 
+#### Wireless Acess Point
+- Provides IEEE 802.11 connectivity
+- Many support Power over Ethernet (PoE)
+  * IEEE 802.af specifies 15.4W power
+- Wireless LAN controllers
+  * Centralized management of many WAPs
+  
+#### Ethernet Domains
+
+- Hub
+  * One collision domain
+- Switch
+  * Four collision domains
+- Router
+  * Four broadcast and collision domains
+
+#### Configuring a Router
+
 
 - Push my commits to GitHub
 - Open a pull request
