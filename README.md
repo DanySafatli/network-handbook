@@ -76,9 +76,3 @@ Entry level certification
 
 #### Configuring a Router
 
-
-- Push my commits to GitHub
-- Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
