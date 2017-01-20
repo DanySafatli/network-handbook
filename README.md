@@ -4,6 +4,7 @@
 
 # Table of Contents
 - [1. Network Architecture for CompTIA Network](### 1. Network Architecture for CompTIA Network)
+  * [Objective 1.1 - Explain the Functions and Applications of Various Network Devices](### Objective 1.1 - Explain the Functions and Applications of Various Network Devices )
 
 ### CompTIA+ Certification  
 
