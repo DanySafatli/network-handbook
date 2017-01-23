@@ -31,7 +31,7 @@ Entry level certification
 - Comparing cloud and virtualization technologies
 - Implementing a basic network
 
-### Objective 1.1 - Explain the Functions and Applications of Various Network Devices 
+### 1.1 - Explain the Functions and Applications of Various Network Devices 
 
 - Core connectivity devices
 - Security devices
@@ -136,16 +136,10 @@ Entry level certification
 - Mount to rack by rails and "ears"
   * 1U standard is 1.75 inches or 44mm
   * Average rack is 42U or 19 inches wide (483mm)
-
-#### Summary of Objections 1.1
-- Standardization is important here because network administrators have the same basic needs
-- Standardization allows different vendors to "work together"
-- Once you know the basic operation of a network device, you're halfway to overcoming your learning curver with all appliances
   
-#### Objective 1.1 - Appendix
+#### 1.1 - Appendix
 
 #### Useful Links
-
 - Understanding Network Hubs -> (http://www.techiwarehouse.com/engine/5ea76190/Understading-Networking-Hubs)
 - Network Bridges -> (http://compnetworking.about.com/cs/internetworking/g/bldef_bridge.htm)
 - Network Switch -> (https://en.wikipedia.org/wiki/Network_switch)
@@ -189,7 +183,7 @@ Entry level certification
 - Meaning of 'RTFM' -> (http://www.internetslang.com/RTFM-meaning-definition.asp)
 - Rack Unit -> (https://en.wikipedia.org/wiki/Rack_unit)
 
-### Objective 1.2 - Compare and Contrast the Use of Networking Services and Applications
+### 1.2 - Compare and Contrast the Use of Networking Services and Applications
 
 #### Study Alerts for Exam
 - Know your basic vocabulary (especially VPN protocols)
@@ -237,16 +231,54 @@ Entry level certification
     - Pros: Security and flexibility
     - Cisco's Identity Services (ISE) supports RADIUS but not TACACS+
 
-#### VPN End User Experience Demonstration
-- Demonstrate a VPN within a network and the differences
+#### Web Serveices Basics
+- Development methods to allow Web Applications to communicate with each other
+- Uses standard protocols (Web ptorocols: HTTP, HTTPS, XML, SOAP)
+- As a network administrator, you may need to manage firewall exceptions for Web Services (but you shouldn't have to)
+- Example: LAMP Web application exchanging data with a Windows Server IIS/ASP.NET Web application
 
-#### VPN Server Back End Configuration Demonstration
-- Nothing to add yet!
+#### Unified Communications Basics
+- Suite of real time communications technologies
+- IP telephony (IPT) and voice over IP (VOIP)
+- Presence
+- Instant Messaging
+- Web conferencing/collaboration
+- Voice mail, etc. from desktop or mobile device
 
-
-  
-
-#### Objective 1.2 - Appendix
+#### 1.2 - Appendix
 
 #### Useful Links
+- Virtual Private Network -> (https://en.wikipedia.org/wiki/Virtual_private_network)
+- VPNs and VPN Technologies -> (http://www.ciscopress.com/articles/article.asp?p=24833)
+- Types of VPN Access -> (http://www.orbit-computer-solutions.com/Types-of-VPN-Access.php)
+- Site-to-Site VPN -> (http://computer.howstuffworks.com/vpn4.htm)
+- Remote Access VPN -> (http://computer.howstuffworks.com/vpn3.htm)
+- Host Your Own Private VPN -> (http://www.instructables.com/id/Host-Your-Own-Virtual-Private-Network-VPN-with-O/)
+- LogMeIn Hamachi VPN -> (https://secure.logmein.com/products/hamachi/)
+- Configure Site-to-Site VPN with Microsoft Azure -> (https://msdn.microsoft.com/en-us/library/azure/dn133795.aspx)
+- Encryption and Security Protocols in a VPN -> (http://computer.howstuffworks.com/vpn7.htm)
+- Understanding VPN Tunneling -> (http://www.enterprisenetworkingplanet.com/netsp/article.php/3624566/Networking-101-Understanding-Tunneling.htm)
+- VPN Tunneling Protocols -> (https://technet.microsoft.com/en-us/library/cc771298(v=ws.10).aspx)
+- VPN Tunneling -> (http://compnetworking.about.com/od/vpn/a/vpn_tunneling.htm)
+- Configure a Firewall for VPN Traffic -> (https://technet.microsoft.com/en-us/library/dd458955(v=ws.10).aspx)
+- What Ports are Used in a VPN? -> (http://kb.juniper.net/InfoCenter/index?page=content&id=KB5671)
+- NAT Compatibility Requirements -> (https://www.ietf.org/rfc/rfc3715.txt)
+- How Does NAT-T Work with IPSec? -> (https://supportforums.cisco.com/document/64281/how-does-nat-t-work-ipsec)
+- Why SSL VPN? -> (https://openvpn.net/index.php/open-source/339-why-ssl-vpn.html)
+- Microsoft SSTP Protocol -> (https://technet.microsoft.com/en-us/magazine/2007.06.cableguy.aspx)
+- RADIUS Protocol and Components (https://technet.microsoft.com/en-us/library/cc726017(v=ws.10).aspx)
+- RADIUS vs. TACACS+ -> (http://www.networkworld.com/article/2838882/radius-versus-tacacs.html)
+- TACACS+ and RADIUS Comparison -> (http://www.cisco.com/c/en/us/support/docs/security-vpn/remote-authentication-dial-user-service-radius/13838-10.html)
+- IPv4 Address Blocks Reserved for Documentation -> (https://tools.ietf.org/html/rfc5737)
+- Using the IPCONFIG Command -> (https://support.microsoft.com/en-us/kb/314850)
+- Introduction to Web Services -> (http://www.w3schools.com/webservices/ws_intro.asp)
+- Web Service -> (https://en.wikipedia.org/wiki/Web_service)
+- What is DevOps? -> (http://blog.pluralsight.com/what-is-devops)
+- What is Unified Communications? -> (http://voip.about.com/od/unifiedcommunications/a/UnifiedComm.htm)
+- UC Architecture Basics -> (http://www.cisco.com/c/en/us/td/docs/voice_ip_comm/uc_system/UC6-0-1/system_description/SDIPC.html)
+- Session Initiation Protocol (SIP) -> (https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
+- Microsoft Lync/Skype for Business -> (http://products.office.com/en-us/lync/lync-2013-video-conferencing-meeting-software)
+- Cisco UC Products and Services -> (http://www.cisco.com/c/en/us/products/unified-communications/index.html)
+- DirectAccess Always-on VPN -> (https://technet.microsoft.com/en-us/windows/directaccess.aspx)
+
 
