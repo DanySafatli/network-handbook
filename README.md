@@ -42,22 +42,17 @@ Entry level certification
   * Regenerate the signal  
 - One big collision domain
 - Good for network diagnostics and nothing else
-- Understanding network hubs -> (http://www.techiwarehouse.com/engine/5ea76190/Understading-Networking-Hubs/)
-- Bridges -> (http://compnetworking.about.com/cs/internetworking/g/bldef_bridge.htm)
 
 #### Switch
 - Successor to the bridge
 - Works at OSI Layer 2 (Data Link)
   * Can also function at OSI Layer 3 (Network)
 - Switches store an in-memory MAC (aka media access control) table and provide dedicated bandwidth to each port (collision domain)
-- Network Switch -> (https://en.wikipedia.org/wiki/Network_switch)
-- Difference Between Hubs, Switches, and Routers -> (http://www.webopedia.com/DidYouKnow/Hardware_Software/router_switch_hub.asp)
 
 #### Router
 - Operates at OSI Layer 3 (Network)
 - Seperate entire networks
 - Modular design (especially Cisco)
-- Understanding Routing -> (http://www.enterprisenetworkingplanet.com/netsp/article.php/3607381/Networking-101-Understanding-Routing.htm)
 
 #### Wireless Acess Point
 - Provides IEEE 802.11 connectivity
@@ -65,9 +60,6 @@ Entry level certification
   * IEEE 802.af specifies 15.4W power
 - Wireless LAN controllers
   * Centralized management of many WAPs
-- Wireless Access Point -> (https://en.wikipedia.org/wiki/Wireless_access_point)
-- Wireless Access Point 2 -> (http://compnetworking.about.com/cs/wireless/g/bldef_ap.htm)
-- Configuring a Wireless Access Point -> (http://www.dummies.com/how-to/content/configuring-a-wireless-access-point.html)
   
 #### Ethernet Domains
 
@@ -100,10 +92,18 @@ Entry level certification
     - IP addresses, port numbers - packet-filtering firewall
   * Stateful packet inspection - Identifies sessions and can enforce rules on high level applications and services
   * Serves as a gatekeeper
-  
+
 - Intrusion Detection
+  * Intrusion Detection System (IDS) - Passive detection of network traffics
+    - Also called NIDS
+  * Host-Based IDS (HIDS) - Protects local computer (Tripwire)
+  * Intrusion Prevention System (IPS) - Active prevention of network attacks
+  * Threat detection often involves signatures and anomolies
+  
+### Proxy/COntent Filter
 
 
+  
 ### Objective 1.1 Appendix
 
 #### Useful Links
