@@ -16,7 +16,7 @@ Entry level certification
 - Not all multiple choice questions
 - Passing is 720 and above from scale 100-900
 
-### 1. Network Architecture for CompTIA Network
+### 1. Network Architecture for CompTIA Network+
 
 - Introducing network devices
 - Understanding network services and applications
@@ -189,4 +189,28 @@ Entry level certification
 - Meaning of 'RTFM' -> (http://www.internetslang.com/RTFM-meaning-definition.asp)
 - Rack Unit -> (https://en.wikipedia.org/wiki/Rack_unit)
 
-### Objective 1.2 - 
+### Objective 1.2 - Compare and Contrast the Use of Networking Services and Applications
+
+#### Study Alerts for Exam
+- Know your basic vocabulary (especially VPN protocols)
+- Apply when web services or UC is appropriate
+
+#### Understanding VPN Services
+- Purpose of VPN
+  * Provides remote access to external employees
+  * Cheaper to setup and maintain than a leased line
+  * Advantages: 
+    - Cost, scalability
+  * Disadvantages:
+    - User must initiate a VPN connection
+    - Performance can be poor
+- VPN Deployment Types
+  * Site to site
+    - Site to site VPNs are used to connect on premise network to a cloud service such as Microsoft Azure
+  * Host to site
+  * Host to host
+    
+#### Objective 1.2 - Appendix
+
+#### Useful Links
+- logmein.com -> (https://www.logmeininc.com/)
