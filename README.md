@@ -62,7 +62,6 @@ Entry level certification
   * Centralized management of many WAPs
   
 #### Ethernet Domains
-
 - Hub
   * One collision domain
 - Switch
@@ -71,7 +70,6 @@ Entry level certification
   * Four broadcast and collision domains
 
 #### Configuring a Router
-
 - VMWare or Virtualbox will allow for creation of computer and aoppliance instances in software
   * Vyos
   
@@ -80,33 +78,30 @@ Entry level certification
     `# set interfaces ethernet eth0 address 10.0.0.254/24`   
     `# save`   
     `# ping 10.0.0.254`   
-    `# clear`   
+    `# clear`
+    
   * Ability to use tab completion with various CLI's
   * NOTE - Always ensure that you save configuration changes. A common beginner's mistake is making configurations and not saving the changes
   
 #### Security Devices
-
 - Firewall
   * Exist as software or hardware varieties
   * Selectively allow or block network traffic
     - IP addresses, port numbers - packet-filtering firewall
   * Stateful packet inspection - Identifies sessions and can enforce rules on high level applications and services
   * Serves as a gatekeeper
-
 - Intrusion Detection
   * Intrusion Detection System (IDS) - Passive detection of network traffics
     - Also called NIDS
   * Host-Based IDS (HIDS) - Protects local computer (Tripwire)
   * Intrusion Prevention System (IPS) - Active prevention of network attacks
   * Threat detection often involves signatures and anomolies
-  
 - Proxy/Cotent Filter
   * Forward proxy: Hides internal computers IP addresses from the internet
   * Reverse proxy: Publishes internal applications to the internet
   * Proxy provides security and sometimes content caching
   * Content filters use a subscription service (WebSense) to classify web content
   * Generally network devices often combine different but related functions as a all in one operation
-  
 - Remote Access and Performance Devices
   * Analog Modem
     - Modulate digital signals to anaolg for transmission over phone lines
