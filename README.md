@@ -32,6 +32,7 @@ Entry level certification
 - Implementing a basic network
 
 ### Objective 1.1 - Explain the Functions and Applications of Various Network Devices 
+
 - Core connectivity devices
 - Security devices
 - Special purpose devices
@@ -69,7 +70,7 @@ Entry level certification
 - Router
   * Four broadcast and collision domains
 
-#### Configuring a Router
+#### Configuring a Router Demonstration
 - VMWare or Virtualbox will allow for creation of computer and aoppliance instances in software
   * Vyos
   
@@ -117,10 +118,31 @@ Entry level certification
     - Distributes incoming network traffic across multiple nodes
     - Load balancing gives users a faster experience
     - Load balancing is a way of providing high availability (HA)
-
-
+  * Packet Shaper
+    - Prioritize network traffic based upon your business rules
+    - Ensures that certain types of traffic always have adequate bandwidth
+    - Also ensures that low-priority traffic gets squashed to avoid DoS
+    
+#### Load Balancing in Action Demonstration
+  `C:\> ping -4 www.google.com`   
+  `C:\> nslookup www.google.com`   
+- We use nslookup to query Domain Name System (DNS) servers for informational or troubleshooting purposes
   
-### Objective 1.1 Appendix
+#### Network Applicances with GUI Demonstration
+- Web graphical interfaces (GUIs) are populare because you can get to them from almost anywhere, provided you have a web browser
+
+#### The Rack Unit
+- Most enterprise servers come as rack mounted appliances
+- Mount to rack by rails and "ears"
+  * 1U standard is 1.75 inches or 44mm
+  * Average rack is 42U or 19 inches wide (483mm)
+
+#### Summary of Objections 1.1
+- Standardization is important here because network administrators have the same basic needs
+- Standardization allows different vendors to "work together"
+- Once you know the basic operation of a network device, you're halfway to overcoming your learning curver with all appliances
+  
+#### Objective 1.1 - Appendix
 
 #### Useful Links
 
@@ -167,4 +189,4 @@ Entry level certification
 - Meaning of 'RTFM' -> (http://www.internetslang.com/RTFM-meaning-definition.asp)
 - Rack Unit -> (https://en.wikipedia.org/wiki/Rack_unit)
 
-
+### Objective 1.2 - 
