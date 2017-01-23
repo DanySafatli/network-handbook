@@ -281,4 +281,81 @@ Entry level certification
 - Cisco UC Products and Services -> (http://www.cisco.com/c/en/us/products/unified-communications/index.html)
 - DirectAccess Always-on VPN -> (https://technet.microsoft.com/en-us/windows/directaccess.aspx)
 
+### 1.3 Configuring Network Services and Applications
+
+#### Study Alerts for Exam
+- Understand the Basic concepts of DNS, DHCP, NAT
+- Recognize when to use relevant command line tools (ipconfig, ifconfig)
+
+#### DHCP
+- aka Dynamic Host Configuration Protocol
+  * RFC 1531
+  * UDP port 67 (server); port 68 (client)
+- Many devices need statically assigned IPv4 addresses
+  * Servers, access points, printers, switches and routers
+- Request for Commants (RFC) documents are published by the Internet Engineering Task Force (IETF)
+- Method for automating client IPv4 Address assignment
+
+#### DNS
+- aka Domain Name System
+- Distributed database of hostname to IP address mappings
+- Defined in RFC 1035
+- UDP, TCP port 53
+- Records (A, AAAA, MX, CNAME, PTR)
+- Dynamic DNS
+- DHCP Integration
+
+#### DNS Troubleshooting Skills
+- Windows
+  * ipconfig
+  * nslookup
+  * dig
+- Linux
+  * ifconfig
+  * nslookup
+  * dig
+
+#### Proxy, Address Translation, and Port Forwarding
+- Forward and Reverse Proxies
+  * Proxies provide security and possibly caching and/or content filtering
+  
+#### IPV4 Address Exhaustion
+- IPv4 address space is 32 bits = 4.2billion addresses
+- IPv6  address gives us 128 bits, almost unlimited amount
+- RFC 1883 codified IPv6 in 1996, will be a long time before tranisitioning permanently
+
+#### Network Address Translation (NAT)
+- Nat: one to one, one to many
+- Dynamic NAT: Sharing multiple public IPs
+- PAT - Port mapping or port forwarding
+- DNAT: Also called port forwarding; used to publish private IPs to public internet
+- SNAT: Source, static, stateful, secure
+
+#### 1.3 - Appendix
+
+#### Useful Links
+- Microsoft Visio 2013 Trial -> (http://www.microsoft.com/en-us/evalcenter/evaluate-visio-professional-2013)
+- What is a SOHO Network? -> (http://www.dsl.com/faqs/what-is-a-soho-network/)
+- RFC 1918 (Private IPv4 Addresses) -> (https://tools.ietf.org/html/rfc1918)
+- RFC 3046 (DHCP Relay Agent) -> (https://tools.ietf.org/html/rfc3046)
+- APIPA - Automatic Private IP Addressing -> (http://compnetworking.about.com/cs/protocolsdhcp/g/bldef_apipa.htm)
+- Dynamic Host Configuration Protocol -> (https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+- DHCP Overview -> (https://technet.microsoft.com/en-us/library/cc731166.aspx)
+- IPCONFIG -> (http://ss64.com/nt/ipconfig.html)
+- IFCONFIG -> (http://linux.die.net/man/8/ifconfig)
+- NSLOOKUP -> (https://support.microsoft.com/en-us/kb/200525)
+- DIG -> (https://www.madboa.com/geek/dig/)
+- Domain Name System -> (https://en.wikipedia.org/wiki/Domain_Name_System)
+- Root Name Server -> (https://en.wikipedia.org/wiki/Root_name_server)
+- RFC 2663: NAT -> (https://tools.ietf.org/html/rfc2663)
+- Forward Proxy vs. Reverse Proxy -> (http://www.jscape.com/blog/bid/87783/Forward-Proxy-vs-Reverse-Proxy)
+- Port Forwarding -> (https://en.wikipedia.org/wiki/Port_forwarding)
+- IPv4 Address Exhaustion -> (https://en.wikipedia.org/wiki/IPv4_address_exhaustion)
+- Did Bill Gates Really Say the 640K Quote? -> (http://www.computerworld.com/article/2534312/operating-systems/the--640k--quote-won-t-go-away----but-did-gates-really-say-it-.html)
+- RFC 2460: IPv6 -> (https://tools.ietf.org/html/rfc2460)
+- Network Address Translation -> (https://en.wikipedia.org/wiki/Network_address_translation)
+- NAT and PAT: What's the Difference? -> (http://blog.boson.com/bid/53313/NAT-and-PAT-What-s-the-Difference)
+
+
+
 
