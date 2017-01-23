@@ -209,8 +209,44 @@ Entry level certification
     - Site to site VPNs are used to connect on premise network to a cloud service such as Microsoft Azure
   * Host to site
   * Host to host
-    
+- VPN Encapsulation
+- VPN Protocols
+  * PPP: Layer 2 protocol with a long history
+  * PPTP: Older, Microsoft centric tunneling protocol (TCP 1723)
+    - Uses generic routing encapsulation (GRE IP Protocol value 47) for tunnel and MPPE (microsoft point to point encryption) for encryption
+  * L2TP: Combination of PPTP and L2TP (TCP 1701)
+    - Uses Internet protocol security (IPSec) and IKE encryption
+  * IPSec: Can be used with IKE to create VPN tunnels (UDP 500)
+    - Can break NAT (network address translation) because in tunnel mode sue to IP header encryption
+  * SSL VPN: VPN by using SSL/TLS (TCP 443)
+- Radius Components
+  * aka Remote and User Dial In User Service
+  * AAA protocol (Authentication, Authorization, Accounting)
+- AAA Differences
+  * RADIUS
+    - Vendor neutral
+    - Uses UDP (best effort)
+    - Encrypts only payload
+    - Combines authentication and authroization 
+    - Pros: Interoperability and performance
+  * TACASS+
+    - Cisco proprietary
+    - TCP (ensured delivery)
+    - Encrypts entire session
+    - Isolates the "three A's"
+    - Pros: Security and flexibility
+    - Cisco's Identity Services (ISE) supports RADIUS but not TACACS+
+
+#### VPN End User Experience Demonstration
+- Demonstrate a VPN within a network and the differences
+
+#### VPN Server Back End Configuration Demonstration
+- Nothing to add yet!
+
+
+  
+
 #### Objective 1.2 - Appendix
 
 #### Useful Links
-- logmein.com -> (https://www.logmeininc.com/)
+
