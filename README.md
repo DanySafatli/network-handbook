@@ -100,7 +100,28 @@ Entry level certification
   * Intrusion Prevention System (IPS) - Active prevention of network attacks
   * Threat detection often involves signatures and anomolies
   
-### Proxy/COntent Filter
+- Proxy/Cotent Filter
+  * Forward proxy: Hides internal computers IP addresses from the internet
+  * Reverse proxy: Publishes internal applications to the internet
+  * Proxy provides security and sometimes content caching
+  * Content filters use a subscription service (WebSense) to classify web content
+  * Generally network devices often combine different but related functions as a all in one operation
+  
+- Remote Access and Performance Devices
+  * Analog Modem
+    - Modulate digital signals to anaolg for transmission over phone lines
+    - Receiving modem demodulates analog to digital
+    - Modems can have a purpose today
+      * Special-purpose equipment that already uses a modem to send small amounts of data
+      * "If it ain't broke, don't fix it"    
+  * VPN Concentrator
+    - Provides dedicated hardware circuitry to host virtual private network (VPN) connections
+    - VPN protocols (tunneling and encryption) can be resource intensive
+    - Server software can provide VPN services, with decreased cost but also decreased performance and scale
+  * Load Balancer
+    - Distributes incoming network traffic across multiple nodes
+    - Load balancing gives users a faster experience
+    - Load balancing is a way of providing high availability (HA)
 
 
   
