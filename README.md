@@ -393,6 +393,31 @@ Entry level certification
   * Digital Subscriber Line
   * Broadband Cable
 - Analog Modem and ISDN
-  * Analog Modem
-    - Integrated Services Digital Network 
+  * Analog to digital modulation
+  * Voice or Data @ 53 Kbps
+- Integrated Services Digital Network
+  * Voice or data over PTSN
+  * B: 64 Kbps x 2 (128 Kbps total)
+  * D: 16 Kbps control panel
+  * Requires modem and ISDN telephones
+- Digital Subscriber Line
+  * Digital voice and data over PSTN
+  * ASDL is more common
+  * Uses PPPoE and IP
+- Broadband Cable
+  * Data over cable tv coax cabling
+  * Generally asymmetric transfers
+  * Uses DOCSIS (data over cable service interface specification)
+  
+### Packet Switched WAN Technologies
+- Frame Relay
+  * Was the standard for business WANs
+  * Operates at OSI Layer 2
+  * Permanent or switched virtual circuits (PVCs, SVCs)
+  
+- MPLS
+- Metro Ethernet
+
+  
+  
   
