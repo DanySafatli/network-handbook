@@ -414,10 +414,37 @@ Entry level certification
   * Was the standard for business WANs
   * Operates at OSI Layer 2
   * Permanent or switched virtual circuits (PVCs, SVCs)
-  
+  * DTE (Data Terminal Equip): Modem or CSU/DSU on customer's side - terminates the connection
+  * DCE (Data COmmunications Equip): On Providers side
 - MPLS
+  * Microprotocol Label Switching
+  * The current WAN standard
+  * Single backbone can route Frame, ATM, Metro Ethernet, etc
+  * Header functions as OSI Layer 2.5
+  * MPLS uses special headers called "labels" to make routing decisions
 - Metro Ethernet
+  * Used in metropolitan area network (MAN ) environments
+  * Can do pure Ethernet, Ethernet over SONET, Ethernet over MPLS
 
+### Wireless WAN Technologies
+- Satellite
+  * Appropriate for locations that are far way
+  * Need satellite dish and line of sight
+  * Latency because satellites travel 22K miles high
+  * Sensitivity to weather
+  * Pay for the data transfer (like smartphones)
+- WiMAX
+  * Worldwide Interoperability for Microwave Access
+  * Up to 45 Mbps downstream / 50km
+  * Certain companies are moving away from WiMAX
+- Cellular Networks
+  * Targeted at smartphones and tablet devices
+  * GSM (Global System for Mobile Communications)
+  * CDMA (Code Division Multiple Access)
+  * 2G: Edge: 135 Kbps downstream
+  * 3G: High Speed Packet Access (HSPA+) ~4 Mbps downstream
+  * 4G Long Term Evolution (LTE) 50Mbps
+  
   
   
   
