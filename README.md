@@ -12,7 +12,7 @@ Entry level certification
 - Not all multiple choice questions
 - Passing is 720 and above from scale 100-900
 
-### 1. Network Architecture for CompTIA Network+
+## 1. Network Architecture for CompTIA Network+
 
 - Introducing network devices
 - Understanding network services and applications
@@ -27,38 +27,38 @@ Entry level certification
 - Comparing cloud and virtualization technologies
 - Implementing a basic network
 
-### 1.1 - Explain the Functions and Applications of Various Network Devices 
+## 1.1 - Explain the Functions and Applications of Various Network Devices 
 
 - Core connectivity devices
 - Security devices
 - Special purpose devices
 
-#### Hub
+### Hub
 - Works at OSI Layer 1 (Physical)
 - Hubs are multiport repeaters
   * Regenerate the signal  
 - One big collision domain
 - Good for network diagnostics and nothing else
 
-#### Switch
+### Switch
 - Successor to the bridge
 - Works at OSI Layer 2 (Data Link)
   * Can also function at OSI Layer 3 (Network)
 - Switches store an in-memory MAC (aka media access control) table and provide dedicated bandwidth to each port (collision domain)
 
-#### Router
+### Router
 - Operates at OSI Layer 3 (Network)
 - Seperate entire networks
 - Modular design (especially Cisco)
 
-#### Wireless Acess Point
+### Wireless Acess Point
 - Provides IEEE 802.11 connectivity
 - Many support Power over Ethernet (PoE)
   * IEEE 802.af specifies 15.4W power
 - Wireless LAN controllers
   * Centralized management of many WAPs
   
-#### Ethernet Domains
+### Ethernet Domains
 - Hub
   * One collision domain
 - Switch
@@ -66,7 +66,7 @@ Entry level certification
 - Router
   * Four broadcast and collision domains
 
-#### Configuring a Router Demonstration
+### Configuring a Router
 - VMWare or Virtualbox will allow for creation of computer and aoppliance instances in software
   * Vyos
   
@@ -80,7 +80,7 @@ Entry level certification
   * Ability to use tab completion with various CLI's
   * NOTE - Always ensure that you save configuration changes. A common beginner's mistake is making configurations and not saving the changes
   
-#### Security Devices
+### Security Devices
 - Firewall
   * Exist as software or hardware varieties
   * Selectively allow or block network traffic
@@ -119,23 +119,23 @@ Entry level certification
     - Ensures that certain types of traffic always have adequate bandwidth
     - Also ensures that low-priority traffic gets squashed to avoid DoS
     
-#### Load Balancing in Action Demonstration
+### Load Balancing in Action Demonstration
   `C:\> ping -4 www.google.com`   
   `C:\> nslookup www.google.com`   
 - We use nslookup to query Domain Name System (DNS) servers for informational or troubleshooting purposes
   
-#### Network Applicances with GUI Demonstration
+### Network Applicances with GUI Demonstration
 - Web graphical interfaces (GUIs) are populare because you can get to them from almost anywhere, provided you have a web browser
 
-#### The Rack Unit
+### The Rack Unit
 - Most enterprise servers come as rack mounted appliances
 - Mount to rack by rails and "ears"
   * 1U standard is 1.75 inches or 44mm
   * Average rack is 42U or 19 inches wide (483mm)
   
-#### 1.1 - Appendix
+## 1.1.Z - Appendix
 
-#### Useful Links
+### Useful Links
 - Understanding Network Hubs -> (http://www.techiwarehouse.com/engine/5ea76190/Understading-Networking-Hubs)
 - Network Bridges -> (http://compnetworking.about.com/cs/internetworking/g/bldef_bridge.htm)
 - Network Switch -> (https://en.wikipedia.org/wiki/Network_switch)
@@ -179,13 +179,13 @@ Entry level certification
 - Meaning of 'RTFM' -> (http://www.internetslang.com/RTFM-meaning-definition.asp)
 - Rack Unit -> (https://en.wikipedia.org/wiki/Rack_unit)
 
-### 1.2 - Compare and Contrast the Use of Networking Services and Applications
+## 1.2 - Compare and Contrast the Use of Networking Services and Applications
 
-#### Study Alerts for Exam
+### Study Alerts for Exam
 - Know your basic vocabulary (especially VPN protocols)
 - Apply when web services or UC is appropriate
 
-#### Understanding VPN Services
+### Understanding VPN Services
 - Purpose of VPN
   * Provides remote access to external employees
   * Cheaper to setup and maintain than a leased line
@@ -227,13 +227,13 @@ Entry level certification
     - Pros: Security and flexibility
     - Cisco's Identity Services (ISE) supports RADIUS but not TACACS+
 
-#### Web Serveices Basics
+### Web Serveices Basics
 - Development methods to allow Web Applications to communicate with each other
 - Uses standard protocols (Web ptorocols: HTTP, HTTPS, XML, SOAP)
 - As a network administrator, you may need to manage firewall exceptions for Web Services (but you shouldn't have to)
 - Example: LAMP Web application exchanging data with a Windows Server IIS/ASP.NET Web application
 
-#### Unified Communications Basics
+### Unified Communications Basics
 - Suite of real time communications technologies
 - IP telephony (IPT) and voice over IP (VOIP)
 - Presence
@@ -241,9 +241,9 @@ Entry level certification
 - Web conferencing/collaboration
 - Voice mail, etc. from desktop or mobile device
 
-#### 1.2 - Appendix
+## 1.2.Z - Appendix
 
-#### Useful Links
+### Useful Links
 - Virtual Private Network -> (https://en.wikipedia.org/wiki/Virtual_private_network)
 - VPNs and VPN Technologies -> (http://www.ciscopress.com/articles/article.asp?p=24833)
 - Types of VPN Access -> (http://www.orbit-computer-solutions.com/Types-of-VPN-Access.php)
@@ -277,13 +277,13 @@ Entry level certification
 - Cisco UC Products and Services -> (http://www.cisco.com/c/en/us/products/unified-communications/index.html)
 - DirectAccess Always-on VPN -> (https://technet.microsoft.com/en-us/windows/directaccess.aspx)
 
-### 1.3 Configuring Network Services and Applications
+## 1.3 Configuring Network Services and Applications
 
-#### Study Alerts for Exam
+### Study Alerts for Exam
 - Understand the Basic concepts of DNS, DHCP, NAT
 - Recognize when to use relevant command line tools (ipconfig, ifconfig)
 
-#### DHCP
+### DHCP
 - aka Dynamic Host Configuration Protocol
   * RFC 1531
   * UDP port 67 (server); port 68 (client)
@@ -292,7 +292,7 @@ Entry level certification
 - Request for Commants (RFC) documents are published by the Internet Engineering Task Force (IETF)
 - Method for automating client IPv4 Address assignment
 
-#### DNS
+### DNS
 - aka Domain Name System
 - Distributed database of hostname to IP address mappings
 - Defined in RFC 1035
@@ -301,7 +301,7 @@ Entry level certification
 - Dynamic DNS
 - DHCP Integration
 
-#### DNS Troubleshooting Skills
+### DNS Troubleshooting Skills
 - Windows
   * ipconfig
   * nslookup
@@ -311,25 +311,25 @@ Entry level certification
   * nslookup
   * dig
 
-#### Proxy, Address Translation, and Port Forwarding
+### Proxy, Address Translation, and Port Forwarding
 - Forward and Reverse Proxies
   * Proxies provide security and possibly caching and/or content filtering
   
-#### IPV4 Address Exhaustion
+### IPV4 Address Exhaustion
 - IPv4 address space is 32 bits = 4.2billion addresses
 - IPv6  address gives us 128 bits, almost unlimited amount
 - RFC 1883 codified IPv6 in 1996, will be a long time before tranisitioning permanently
 
-#### Network Address Translation (NAT)
+### Network Address Translation (NAT)
 - Nat: one to one, one to many
 - Dynamic NAT: Sharing multiple public IPs
 - PAT - Port mapping or port forwarding
 - DNAT: Also called port forwarding; used to publish private IPs to public internet
 - SNAT: Source, static, stateful, secure
 
-#### 1.3 - Appendix
+### 1.3 - Appendix
 
-#### Useful Links
+### Useful Links
 - Microsoft Visio 2013 Trial -> (http://www.microsoft.com/en-us/evalcenter/evaluate-visio-professional-2013)
 - What is a SOHO Network? -> (http://www.dsl.com/faqs/what-is-a-soho-network/)
 - RFC 1918 (Private IPv4 Addresses) -> (https://tools.ietf.org/html/rfc1918)
