@@ -1,14 +1,10 @@
-# network-handbook README File
----
-# My Notes  
+# WIP_network-handbook
 
-
-
-### CompTIA+ Certification  
+## CompTIA+ Certification  
 
 Entry level certification
 
-### Comptia Network + Objectives N10-006
+## Comptia Network + Objectives N10-006
   
 - See PDF
 - Navigate to Pearson VUE in For test takers tab (https://home.pearsonvue.com/)
