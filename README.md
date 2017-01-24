@@ -352,6 +352,22 @@ Entry level certification
 - Network Address Translation -> (https://en.wikipedia.org/wiki/Network_address_translation)
 - NAT and PAT: What's the Difference? -> (http://blog.boson.com/bid/53313/NAT-and-PAT-What-s-the-Difference)
 
+## 1.4 Explain the Characteristics and Benefits of Various WAN Technologies
 
+### WAN Basics
+- What is LAN?
+  * WANs connect networks that are wider range
+    - Distance is relative
+  * Own LANs and Lease WANs
+
+### WAN Connection Types
+  * Dedicated leased line
+    - Reserved point to point link
+  * Circuit switched connection
+    - As needed link (phone call)
+  * Packet switched connection
+    - Pseudo dedicated virtual links
+    
+### Dedicated Leased Line Technologies
 
 
