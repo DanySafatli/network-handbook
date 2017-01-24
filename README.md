@@ -327,7 +327,7 @@ Entry level certification
 - DNAT: Also called port forwarding; used to publish private IPs to public internet
 - SNAT: Source, static, stateful, secure
 
-## 1.3 - Appendix
+## 1.3.Z - Appendix
 
 ### Useful Links
 - Microsoft Visio 2013 Trial -> (http://www.microsoft.com/en-us/evalcenter/evaluate-visio-professional-2013)
@@ -369,5 +369,30 @@ Entry level certification
     - Pseudo dedicated virtual links
     
 ### Dedicated Leased Line Technologies
+- Circuits use multiplexing technology to aggregate 64 Kbps channels
+- Layer 2 protocols are PPP or Cisco HDLC (PPP is multiprotocol and multilink)
+- T1: 24 DS0 channels = 1.544 Mbps (~$200/mo)
+- E1: 32 DS0 channels = 2.048 Mbps
+- T3: 28 T1s = 44.7 Mbps (~$5-10K/mo)
+- E3: 34 Mbps
 
+### SONET and OC Levels
+- Synchronous Optical Network (SONET): Layer 1 technology that uses fiber optic cabling
+  * Can transmit some Layer 2 encapsulations like Asynchronous Transfer Mode (ATM)
+  * ATM required special hardware which costs significantly more
+- Uses TDM to support multiple data flows over single fiber
+- OC3: Equivalent to 100 TAz @ 155 Mbps (~$20-45K/mo)
+- OC12: Equivalent to 4 OC3s @ 622 Mbps
+- DWDM (Dense Wavelength Division Multiplexing): Each light Wavelength carries a data stream independantly; more expensive than CWDN
+- CWDM (Course Wavelength Divsion Multiplexing); Spectrum broken less granularly than DWDN
 
+### Circuit Switched WAN Technologies
+- Circuit Switched Connections
+  * Analog Modem
+  * ISDN
+  * Digital Subscriber Line
+  * Broadband Cable
+- Analog Modem and ISDN
+  * Analog Modem
+    - Integrated Services Digital Network 
+  
