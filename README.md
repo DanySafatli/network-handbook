@@ -327,7 +327,7 @@ Entry level certification
 - DNAT: Also called port forwarding; used to publish private IPs to public internet
 - SNAT: Source, static, stateful, secure
 
-### 1.3 - Appendix
+## 1.3 - Appendix
 
 ### Useful Links
 - Microsoft Visio 2013 Trial -> (http://www.microsoft.com/en-us/evalcenter/evaluate-visio-professional-2013)
