@@ -445,6 +445,17 @@ Entry level certification
   * 3G: High Speed Packet Access (HSPA+) ~4 Mbps downstream
   * 4G Long Term Evolution (LTE) 50Mbps
   
-  
+## 1.4.Z Appendix
+
+### Useful Links
+- Difference Between LAN, MAN, and WAN (https://kb.iu.edu/d/agki)
+- Verizon Managed WAN Service Level Agreement (SLA) (http://www.verizonenterprise.com/external/service_guide/reg/cp_mwan_sla.pdf)
+- Leased Line (https://en.wikipedia.org/wiki/Leased_line)
+- Understanding Dedicated Leased Lines vs. Shared Access (http://www.chaffeecountyedc.com/EndUserFiles/33266.pdf)
+- Packet vs Circuit Switching (http://bpastudio.csudh.edu/fac/lpress/471/hout/netech/circuitvpacket.htm)
+- T-Carrier (https://en.wikipedia.org/wiki/T-carrier)
+- E-Carrier (https://en.wikipedia.org/wiki/E-carrier)
+- Time-Division Multiplexing (TDM) (https://en.wikipedia.org/wiki/Time-division_multiplexing)
+
   
   
