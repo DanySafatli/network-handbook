@@ -530,7 +530,17 @@ Entry level certification
     - Straight Through Cable - 568B on each side or 568A on each side
     - Crossover Cable - 568A and 568B on each side and not necessaryily used today as switches and routers incorporate the crossover
     - Rollover Cable - 568A and reversal of 568A ion other side
-    
+
+### Coaxial Copper Cables
+  * Made up of 4 Layers
+    - Outer insulator
+    - Shielding wire mesh
+    - Inner Insulator
+    - Copper core
+  * Types of Copper Cables
+    - Radio Guide RG-58 (Thinnet)
+      * 10 Mbps
+      * 185 meters
   
   
   
