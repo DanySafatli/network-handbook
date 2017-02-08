@@ -456,6 +456,83 @@ Entry level certification
 - T-Carrier (https://en.wikipedia.org/wiki/T-carrier)
 - E-Carrier (https://en.wikipedia.org/wiki/E-carrier)
 - Time-Division Multiplexing (TDM) (https://en.wikipedia.org/wiki/Time-division_multiplexing)
+- Point-to-Point Protocol (PPP) (https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
+- Use Multilink PPP (http://www.techrepublic.com/blog/data-center/use-multilink-ppp-to-combine-multiple-circuits-into-a-single-circuit-with-a-single-router-interface/)
+- Cisco HDLC (https://en.wikipedia.org/wiki/Cisco_HDLC)
+- CSU/DSU (https://en.wikipedia.org/wiki/CSU/DSU)
+- T1/E1 CSU/DSUs (http://www.adtran.com/web/page/portal/Adtran/group/127)
+- Demarcation Point (https://en.wikipedia.org/wiki/Demarcation_point)
+- Asynchronous Transfer Mode (ATM) (https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
+- A Brief Overview of ATM (http://ccr.sigcomm.org/archive/1995/apr95/ccr-9504-siu.pdf)
+- Synchronous Optical Networking (SONET) (https://en.wikipedia.org/wiki/Synchronous_optical_networking)
+- Optical Carrier Transmission Rates (https://en.wikipedia.org/wiki/Optical_Carrier_transmission_rates)
+- SONET/OC Topology and Cost (https://www.10gea.org/network/sonet-ocx/)
+- Wavelength-Division Multiplexing (https://en.wikipedia.org/wiki/Wavelength-division_multiplexing)
+- What is Difference Between DWDM and CWDM? (http://www.wisegeek.com/what-is-the-difference-between-dwdm-and-cwdm-optical-technolgies.htm)
+- Integrated Services Digital Network (ISDN) (https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network)
+- What is ISDN? (http://public.swbell.net/ISDN/overview.html)
+- Modem (https://en.wikipedia.org/wiki/Modem)
+- Hayes (AT) Command Set (https://en.wikipedia.org/wiki/Hayes_command_set)
+- ADSL (https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
+- ADSL Packages (http://www.mweb.co.za/internet-connection/adsl/adsl-packages.aspx)
+- Cable Internet Access (https://en.wikipedia.org/wiki/Cable_Internet_access)
+- List of Broadband Cable Providers (http://broadbandnow.com/Cable-Providers)
+- PPPoE (https://en.wikipedia.org/wiki/Point-to-point_protocol_over_Ethernet)
+- DOCSIS Specification (http://docsis.org/)
+- Frame Relay (https://en.wikipedia.org/wiki/Frame_Relay)
+- Frame Relay Details (http://www.protocols.com/pbook/frame.htm)
+- MPLS (https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching)
+- MPLS for Dummies (https://www.nanog.org/meetings/nanog49/presentations/Sunday/mpls-nanog49.pdf)
+- Metro Ethernet (https://en.wikipedia.org/wiki/Metro_Ethernet)
+- Metro Ethernet Forum (MEF) (http://www.metroethernetforum.org/)
+- DTE vs. DCE (http://ftp1.digi.com/support/cabling/dte_vs_dce.pdf)
+- Satellite Internet Access (https://en.wikipedia.org/wiki/Satellite_Internet_access)
+- Hughes Satellite Service (http://www.hughesnet.com/)
+- WiMAX (https://en.wikipedia.org/wiki/WiMAX)
+- WiMAX Forum (http://www.wimaxforum.org/)
+- GSM vs. CDMA: What is the Difference? (http://www.makeuseof.com/tag/gsm-vs-cdma-difference-better/)
+- Giz Explains: How Cell Towers Work (http://gizmodo.com/5177322/giz-explains-how-cell-towers-work)
+- Ookla Speedtest Mini API (https://www.speedtest.net/mini.php)
 
+## 1.5 Installing and Properly Terminating Various Cable Types and Conenctors using Apropriate Tools
+
+### Study Alerts for Exam
+- Recognize Cable and connector form factors
+- Associate different cables/connectors with different goals
+
+### Overview
+  * Copper cables and connectors
+  * Fiber cables and connectors
+  * Media converters
+  * termination
+  * Network Technician Tools
+  
+### Twisted-Pair Copper Cables
+  * Copper conductor
+  * Twisting reduces electronic inteference (Cross talk and EMI)
+  * Foil shielding: further reduce crosstalk
+  * Pinout: Defines meaning of each wire
+  
+### Twisted Pair Cable Standards
+  * Max cable length = 100 M (328 ft); 10 Gbps Ethernet is less
+  * Unshielded Twisted Pair (UTP) - Susceptible to EMI
+  * Shielded Twisted Pair - Protects against EMI 
+  * Twisted Pair Categories
+    - CAT 3 = 10 Mbps - Legacy Category
+    - CAT 5 = 100 Mbps
+    - CAT 5e = 1 Gbps
+    - CAT 6/6a = 10 Gbps
+    
+### Twisted-Pair Wiring Standards
+  * 568A and 568B is part of the Electronic Industries Alliance (EIA)/Telecommunications Industry Association (TIA)
+  * Network Infrastructure would be compatible with any type provided they follow the standards
+  * Cable Types
+    - Straight Through Cable - 568B on each side or 568A on each side
+    - Crossover Cable - 568A and 568B on each side and not necessaryily used today as switches and routers incorporate the crossover
+    - Rollover Cable - 568A and reversal of 568A ion other side
+    
+  
+  
+  
   
   
