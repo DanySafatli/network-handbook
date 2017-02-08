@@ -541,7 +541,7 @@ Entry level certification
     - Radio Guide RG-58 (Thinnet)
       * 10 Mbps
       * 185 meters
-  
+  dd
   
   
   
