@@ -541,7 +541,15 @@ Entry level certification
     - Radio Guide RG-58 (Thinnet)
       * 10 Mbps
       * 185 meters
-  dd
+      * Uses a BNC connector
+      * Has been replaced by twisted pair
+    - RG-59 and RG-6
+      * Typically Used for cable television and cable internet service
+      
+      
+      
+      
+  
   
   
   
