@@ -596,8 +596,43 @@ Entry level certification
     - Multimode fiber to ethernet
     - Fiber to coaxial
     - Single mode to multimode fiber
+
+### Cable Termination
+  * Punchdown blocks are used in structural cabling systems
+  * 66 and 110 refer to their Western Electric/Bell Model numbers
+  * Patch Panel
+    - Punchdown/Impact Tool
     
-      
+### Network Technician Tools
+  * Cable Crimpers
+    - Used to attach a connector on the end of the cable
+  * Wire Strippers
+  * Snips
+    - Used to cut and sometimes strip cables
+  * Time Domain Reflectometer (TDR)
+    - Used to check the continuity of a copper cable
+  * Optical Domain Reflectormeter (OTDR)
+    - Used to check the continuity of a fiber optic cable
+  * Both of the tools above are used to help locate where there is a break in the cable
+  * Cable tester
+    - Used to test whether a cable is working properly
+  * Certifier
+    - Used to test and validate whether a cable is ready to handle certain levels of throughput
+
+## 1.5.Z Appendix
+
+### Useful Links
+- Microsoft Visio Network Shapes (http://www.visiocafe.com/links.htm)
+- STP vs. UTP (http://www.ecmag.com/section/systems/stp-vs-utp)
+- Difference Between EIA/TIA 568A and B (http://www.cat-5-cable-company.com/faq-568A-VS-568B.html)
+- Pinout (https://en.wikipedia.org/wiki/Pinout)
+- Twisted Pair (https://en.wikipedia.org/wiki/Twisted_pair)
+- Electromagnetic Interference (https://en.wikipedia.org/wiki/Electromagnetic_interference)
+- Crosstalk (Electronics) (https://en.wikipedia.org/wiki/Crosstalk_%28electronics%29)
+- What's the Difference Between Ethernet Cables? (http://lifehacker.com/5994163/whats-the-difference-between-these-ethernet-cables-and-will-they-make-my-network-faster)
+- What Kind of Cable Should I Use? (http://www.howtogeek.com/70494/what-kind-of-ethernet-cat-5e6a-cable-should-i-use/)
+- What are Straight Through and Crossover Cables? (http://www.home-network-help.com/straight.html)
+- Ethernet Crossover Cable (https://en.wikipedia.org/wiki/Ethernet_crossover_cable)
       
       
   
