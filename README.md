@@ -588,7 +588,15 @@ Entry level certification
   * MTRJ Media termination recommended jack
   * FC Fiber connector
   * Fiber coupler
-  
+
+### Media Converters
+  * Used to allow connectivity between different media technologies
+  * Examples
+    - Single mode fiber ethernet
+    - Multimode fiber to ethernet
+    - Fiber to coaxial
+    - Single mode to multimode fiber
+    
       
       
       
