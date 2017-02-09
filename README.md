@@ -550,10 +550,45 @@ Entry level certification
   * Traditional cables coated with polyvinyl chloride (PVC) give off toxic fumes when burning
   * PVC vs. Plenum
     - The plenum is an enclosed space used for airflow
-    - Usually thought of as the spaced above a drop ceiling or below a raised floor
+    - Usually thought of as the space above a drop ceiling or below a raised floor
     - Plenum grade cable should always be used in a plenum space
     - Plenum-grade cable has a fire-retardent plastic jacket consisting of low-smoke PVC
-      
+
+### Ethernet Standards
+  * 100BaseTX
+    - 100: Line speed
+    - Base: Baseband transmission
+    - TX: Cable standard (twisted-pair or fiber)
+
+### Common Connectors
+  * Registered Jack RJ-11 (3 pairs)
+  * RJ-45/RJ-48 (4 pairs)
+  * UTP Coupler (extended patch cables)
+  * BNC (British Naval Connector; Bayonet Neill-Concelman)
+  * BNC Coupler (Extends cable length)
+  * F-Connector
+ 
+### Serial Connector
+  * DB-9/RS-232
+  * DB-25
+  
+### Fiber Cables
+  * Transmits light instead of electricity
+  * Pros: Security, speed, distance
+  * Cons: Expensive, termination, flexibility
+  * Single mode: One light path; longer distance
+  * Multimode: Many light propagation paths; shorter
+  * UPC (Ultra Physical Contact): 1G Green + Blue; flat endface
+  * APC (Angled Physical Contact): 2G Green, endface polished at 8 degree angle to eliminate airgap at termination point
+  
+### Fiber Connectors
+  * SC - aka subscriber connector, standard connector, squared connector
+  * ST aka straight tip
+  * LC aka lucid connector
+  * MTRJ Media termination recommended jack
+  * FC Fiber connector
+  * Fiber coupler
+  
       
       
       
