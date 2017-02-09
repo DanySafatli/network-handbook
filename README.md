@@ -545,6 +545,14 @@ Entry level certification
       * Has been replaced by twisted pair
     - RG-59 and RG-6
       * Typically Used for cable television and cable internet service
+
+### Plenum-grade Cable
+  * Traditional cables coated with polyvinyl chloride (PVC) give off toxic fumes when burning
+  * PVC vs. Plenum
+    - The plenum is an enclosed space used for airflow
+    - Usually thought of as the spaced above a drop ceiling or below a raised floor
+    - Plenum grade cable should always be used in a plenum space
+    - Plenum-grade cable has a fire-retardent plastic jacket consisting of low-smoke PVC
       
       
       
