@@ -773,6 +773,23 @@ Entry level certification
   * Viedo Teleconference (VTC)
   * ISDN gateways
   * Session initiation Protocol (SIP): VoIP communications protocol
+
+### Wireless Network Infrastructures
+- Wireless Local Area Network (WLAN)
+  * IEEE 802.11 standard: brand name Wi-Fi
+  * Hotspot: Wireless access point
+  * Antenna is key to WLAN design
+    - Interference
+    - Range (coverage)
+  * "Double NAT" is often a problem in home WLANs
+    - Certain cases it would be best to bridge the router so that all incoming traffic is going through the router
+- Personal Area Network (PAN)
+  * Near Field Communication (NFC): Proximity-based networking
+  * Bluetooth: Short-wavelength radio-based communications; frange between 1-100M
+    - Line-of-sight not necessary
+  * Infrared Data Association (IrDA): Uses light and required line-of-sight
+  * Concumer products use Bluetooth and IR all the time
+    
   
   
   
