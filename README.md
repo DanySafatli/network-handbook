@@ -789,7 +789,15 @@ Entry level certification
     - Line-of-sight not necessary
   * Infrared Data Association (IrDA): Uses light and required line-of-sight
   * Concumer products use Bluetooth and IR all the time
-    
+
+### Special-Purpose Network Infrastructures
+- SCADA/ICS
+  * Industrial Control System (ICS)
+  * Supervisory Control and Data Acquisition (SCADA)
+  * Distributed Control System: Method for programming RTU/PLC
+  * Remote Terminal Unit (RTU)/Programmable logic controller (PLC)
+  
+  
   
   
   
