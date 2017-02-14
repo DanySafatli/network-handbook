@@ -633,7 +633,118 @@ Entry level certification
 - What Kind of Cable Should I Use? (http://www.howtogeek.com/70494/what-kind-of-ethernet-cat-5e6a-cable-should-i-use/)
 - What are Straight Through and Crossover Cables? (http://www.home-network-help.com/straight.html)
 - Ethernet Crossover Cable (https://en.wikipedia.org/wiki/Ethernet_crossover_cable)
-      
+- Medium-Dependent Interface (MDI) (https://en.wikipedia.org/wiki/Medium-dependent_interface)
+- Rollover Cable (https://en.wikipedia.org/wiki/Rollover_cable)
+- Coaxial Cable (https://en.wikipedia.org/wiki/Coaxial_cable)
+- RG-59 (https://en.wikipedia.org/wiki/Coaxial_cable)
+- Plenum Cable (https://en.wikipedia.org/wiki/Plenum_cable)
+- Registered Jack (https://en.wikipedia.org/wiki/Registered_jack)
+- Network Adapters and Couplers (http://www.intellinet-network.com/en-US/categories/80-adapters-couplers)
+- Single-Mode vs. Multimode Fiber Cable (http://www.multicominc.com/training/technical-resources/single-mode-vs-multi-mode-fiber-optic-cable/)
+- UPC or APC? (http://www.belden.com/blog/datacenters/UPC-or-APC.cfm)
+- Optical Fiber Connectors (https://en.wikipedia.org/wiki/Optical_fiber_connector)
+- Fiber Optic Connector Guide (http://www.cablestogo.com/learning/connector-guides/fiber-networking)
+- Media Converters (http://www.blackbox.com/Store/results.aspx/networking/media-converters/n-4294953610)
+- 66 Block (https://en.wikipedia.org/wiki/66_block)
+- 110 Block (https://en.wikipedia.org/wiki/110_block)
+- Punchdown Tool (https://en.wikipedia.org/wiki/Punch_down_tool)
+- Network Technician Tool Kits (http://www.lanshack.com/Technicians-Tool-Kits-C208.aspx)
+- Things a Network Tech Should Carry to Every Job (http://www.nickh.org/computer/nethings.html)
+- Network Tools (http://www.tigerdirect.com/applications/category/category_slc.asp?CatId=1796)
+- Fluke Networks Products (http://www.flukenetworks.com/products)
+
+## 1.6 Differentiating Between Common Network Topologies
+
+### Study Alerts for Exam
+- Identify which network topology corresponds to a description
+- Associate a nteowrk topology with Ethernet standards and Layer 1 devices
+
+### Network Topologies
+- Layout of a computer network can be physical or logical
+  * Physical = how computers are actually arranged
+  * Logical = how computers appear to be connected to the user
+  
+### Bus Topology
+- All of the computers are connected in a straight line
+- Referred to shared network conenctivity
+- Terminators must be used  at each end of a bus segment to prevent signals from bouncing 
+- A single break in the cable would take down the entire network
+
+### Star Topology
+- All of the computers are connected through a central connection point (hub)
+- A single break in the cable would only take down communication to one computer
+- A hub failure would take down the entire network
+
+### Ring Topology
+- All of the computers are connected in a circular fashion
+- Token ring attempted to prevent the "collision domain" problems with 802.3 Ethernet
+- Data is passed around the ring from computer to computer
+- A break in the cable would take down the entire network
+- Token Ring
+  * IEEE 802.5
+  * 4-16 Mbps
+  * Physical star
+  * Logical ring
+
+### Mesh Topology
+- All of the computers are connected to all other computers
+- Typically used in a WAN environment
+- Provides fault tolerance in the event of a connection failure
+- Partial vs. Full
+
+### Hybrid Topologies
+-  Different types of topologies can be used together to form a hybrid topology
+
+### Network Architectures
+- More generally, we can consider a network architecture to be a plan, or blueprint, for a network design
+- Point-to-Point
+  * One node trnasmits data, and the other node receives it
+  * Star, mesh, and logical ring are point-to-point
+  * Telco uses point-to-point
+    - For example, a voice telephone call
+    - Leased line connection
+- Point-to-Multipoint
+  * Multiple communication paths from a single location to multiple locations
+  * The Thinnet bus is point-to-multipoint
+  * A hub-and-spoke Frame Relay cloud is point-to-multipoint
+  * A WIFI hotspot is another example
+  * IP telephony
+  
+### Client-Server
+- Each host acts specifically as a server (resource provider) OR a client (resource receiver)
+
+### Peer-to-Peer
+- Every host acts as both a server AND a client
+
+## 1.6.Z Appendix
+
+### Useful Links
+- Pluralsight: CompTIA Mobility+ Part 1: Over-the-Air and Network Infrastructure (http://www.pluralsight.com/courses/comptia-mobility-plus-over-the-air-network)
+- Pluralsight: Microsoft MTA: Networking Fundamentals Part 1 (http://www.pluralsight.com/courses/networking-fundamentals-pt1)
+- Logical vs. Physical Network Topology (http://www.pcmag.com/encyclopedia/term/46301/logical-vs-physical-topology)
+- Network Topology (https://en.wikipedia.org/wiki/Network_topology)
+- Network Topology Notes (http://network-communications.blogspot.com/2011/06/network-topology-star-bus-mesh-ring.html)
+- Network Topology Notes (Another Source) (http://computernetworkingnotes.com/network-technologies/network-topologies.html)
+- Token Ring (https://en.wikipedia.org/wiki/Token_ring)
+- Star Bus Network Topology (http://thought1.org/nt100/module3/star_bus.html)
+- Cisco Guidelines on Fault-Tolerant Networking (http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4900-series-switches/white_paper_c11-540141.html)
+- Introduction to Client/Server Networks (http://compnetworking.about.com/od/basicnetworkingfaqs/a/client-server.htm)
+- Client-Server Model (https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+- Peer-to-Peer Model (https://en.wikipedia.org/wiki/Peer-to-peer)
+- Point-to-Point Communication (https://en.wikipedia.org/wiki/Point-to-point_(telecommunications))
+- Point-to-Multipoint Communication (https://en.wikipedia.org/wiki/Point-to-multipoint_communication)
+- Node (Networking) (https://en.wikipedia.org/wiki/Node_(networking))
+- Host (network) (https://en.wikipedia.org/wiki/Host_(network))
+- Wireshark (http://wireshark.org)
+- DHCP: Wireshark Wiki (https://wiki.wireshark.org/DHCP)
+- BitTorrent (https://en.wikipedia.org/wiki/BitTorrent)
+
+## 1.7 DIfferentiating Between Common Network Infrastructures
+
+### Study Alerts for Exam
+
+
+  
       
   
   
