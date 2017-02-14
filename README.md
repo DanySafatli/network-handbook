@@ -797,6 +797,35 @@ Entry level certification
   * Distributed Control System: Method for programming RTU/PLC
   * Remote Terminal Unit (RTU)/Programmable logic controller (PLC)
   
+## 1.7.Z Appendix
+
+### Useful Links
+- Pluralsight: CompTIA Security+ (SY0-401) Compliance and Operational Security (http://www.pluralsight.com/courses/comptia-security-plus-sy0-401-compliance-operational-security)
+- Pluralsight: CompTIA A+ Part 2: Networking (http://www.pluralsight.com/courses/comptia-a-plus-networking)
+- How is Architecture Different from Infrastructure? (http://www.ebizq.net/blogs/ebizq_forum/2011/03/how-is-architecture-different-from-infrastructure.php)
+- LAN, MAN, WAN (http://compnetworking.about.com/od/basicnetworkingconcepts/a/network_types.htm)
+- Cisco Medianet Overview (http://www.cisco.com/c/en/us/solutions/collateral/enterprise/enterprise-medianet/qa_C67-511731.html)
+- Cisco Medianet Data Sheet (http://www.cisco.com/c/en/us/products/collateral/routers/3900-series-integrated-services-routers-isr/data_sheet_c78-612429.html)
+- VisualRoute (http://www.visualroute.com/)
+- TRACERT Syntax (https://support.microsoft.com/en-us/kb/162326)
+- TRACEROUTE Syntax (http://linux.die.net/man/8/traceroute)
+- Double NAT (http://inmethod.com/forum/posts/list/908.page;jsessionid=09BBA9B5DB8375554A35164134EB26C2)
+- WLAN Basics (http://www.slideshare.net/wifihead/wlan-basics-2702803)
+- IEEE 802.11 Standards (https://standards.ieee.org/about/get/802/802.11.html)
+- Infrared Data Association (https://en.wikipedia.org/wiki/Infrared_Data_Association)
+- Bluetooth Basics (http://www.bluetooth.com/Pages/Basics.aspx)
+- Apple iCloud Tabs (https://support.apple.com/en-us/HT202530)
+- Mozilla Firefox Sync (https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync)
+- Google Chrome Tab Sync (https://support.google.com/chrome/answer/2591582?hl=en)
+- Personal Area Network (https://en.wikipedia.org/wiki/Personal_area_network)
+- Industrial Control System  (https://en.wikipedia.org/wiki/Industrial_control_system)
+- SCADA (https://en.wikipedia.org/wiki/SCADA)
+- Securing SCADA Networks (http://www.oe.netl.doe.gov/docs/prepare/21stepsbooklet.pdf)
+- Key Difference Between SCADA Systems (http://blog.cimation.com/blog/key-differences-between-scada-dcs-and-hmi-systems)
+- Telemetry (https://en.wikipedia.org/wiki/Telemetry)
+- Banner Grabbing (https://en.wikipedia.org/wiki/Banner_grabbing)
+- Google Hacking Database (http://www.exploit-db.com/google-dorks/)
+- Internet of Things (IoT) (https://en.wikipedia.org/wiki/Internet_of_Things)
   
   
   
