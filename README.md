@@ -742,10 +742,38 @@ Entry level certification
 ## 1.7 DIfferentiating Between Common Network Infrastructures
 
 ### Study Alerts for Exam
+- CompTIA item stems tend to be terse
+  * Every word counts
+- Eliminate distractors
+  * Makes "picky" questions easier to answer correctly
+ 
+### Network Infrastructure
+- Network topology: Physical/logical arrangement of network assets
+- Network architecture: The design of network assets (hardware and software)
+  * Your plans
+- Network infrastructure: The network assets themselves
 
-
+### Wired Network Infrastructures
+- Local Area Network (LAN)
+  * Area of high speed connectivity contained within a single location
+  * Internetwork: Multiple LAN segments seperated by a router
+  * Intranet: Resources shared internally througout the LAN (and sometimes MAN and WAN, too!)
+- Wide Area Network
+  * Two or more LANs that use a service provider to establish network connectivity
+  * Business almost always leases the WAN from a service provider
+  * Usually a good degree of geogrpahical distance between sites
+  * The internet is an example of a world wide public WAN
+- Metropolitan Area Network (MAN)
+  * Larger internetwork that spans buildings or multiple sites in the same city
+  * Sometimes conflated with the Campus Area Network (CAN)
+  * Because a service provider is involved, a MAN is really a WAN
+- Medianet
+  * Cisco technology built into some of their routers and switches that supports QoS for video, voice, and data
+  * Media-aware, endpoint-aware, network-aware
+  * Viedo Teleconference (VTC)
+  * ISDN gateways
+  * Session initiation Protocol (SIP): VoIP communications protocol
   
-      
   
   
   
