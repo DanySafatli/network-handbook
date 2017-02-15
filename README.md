@@ -827,6 +827,25 @@ Entry level certification
 - Google Hacking Database (http://www.exploit-db.com/google-dorks/)
 - Internet of Things (IoT) (https://en.wikipedia.org/wiki/Internet_of_Things)
   
+## 1.8 Implementing a Network Addressing Scheme
+
+### Study Alerts for Exam
+- General properties of IPv4 addresses
+- General properties of IPv6 addresses
+  * Recognize hexadecimal vs. decimal formats
+
+### Physical Addresses
+- MAC Addresses
+  * Media Access Control (MAC) hardware addresses (OSI Layer 2)
+  * 48 bit total
+  * Each pair represents 8 bits
+    - This makes sense mathematically as 4 bits give you 16 possible values (hexadecimal is base 16)
+  * First 3 parts of the 48 bit MAC address is known as OUI (Organizational Unique Identifier)
+  * Last 3 parts of a 48 bit MAC address is unique and assigned by the vendor
+  * Address Resolution Protocol (ARP) is the layer 2 protocol that resolves MACs from layer 3 IP addresses
+  
+### 
+  
   
   
   
