@@ -844,11 +844,38 @@ Entry level certification
   * Last 3 parts of a 48 bit MAC address is unique and assigned by the vendor
   * Address Resolution Protocol (ARP) is the layer 2 protocol that resolves MACs from layer 3 IP addresses
   
-### 
-  
-  
-  
-  
+### IPv4 Address Basics
+- Defined in RFC 791
+- Maintained by IANA
+- The public address pool is exhausted
+- 32-bits = 4.2 billion addresses
+- IP addresses need subnet mask to be meaningful
+- Default gateway is "near sode" router interface
+- A host uses its subnet mask with other computers' IP addresses to check whether they are on the local network or if the connection requires a router
+
+### IPv4 Address Structure
+- Each octet can go from o to 255
+- 256 combinations
+
+### Classful Addressing
+- Class A
+  * First Octet: 1-126
+  * Classful Mask: 255.0.0.0
+  * CIDR Mask: /8
+- Class B
+  * First Octet: 128-191
+  * Classful Mask: 255.255.0.0
+  * CIDR Mask: /16
+- Class C
+  * First Octet: 192-223
+  * Classful Mask: 255.255.255.0
+  * CIDR Mask: /24
+- Class D
+  * First Octet: 224-255
+- Loopback address: 127.0.0.1
+- Classless addressing: Network break at any bit boundary
+- 192.168.16.0/27 Example
+  * 1 subnet with 30 hosts
   
   
   
