@@ -948,5 +948,9 @@ Entry level certification
 - Loopback for IPv6 - ::1/128
 
 ### IPv6 Transition Protocols
-
+- Dual stack: Run both IPv4 and IPv6 simultaneously
+- 4in6: Encapsulate IPv4 traffic in IPv6 tunnels
+- 6to4: Requires public IPv4 addresses
+- Teredo: Can be used with NAT (written by a Microsoft employee)
+- Miredo: *NIX implementation of Teredo
   
