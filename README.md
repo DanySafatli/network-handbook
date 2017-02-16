@@ -1065,5 +1065,7 @@ Entry level certification
 - Virtual IP (VIP)
 
 ### Route Redistribution/Aggregation
+- Aggregation: Also called route summarization; intende4d to minimize routing table size (bigger tables impact performance)
+- Redistribution: A router injects a route learned with protocol A into protocol B; provides richer route redundancy (3Rs!)
 
 
