@@ -876,6 +876,75 @@ Entry level certification
 - Classless addressing: Network break at any bit boundary
 - 192.168.16.0/27 Example
   * 1 subnet with 30 hosts
-  
+
+### CIDR Notation
+- Memorize at least to this point for questions in the exam
+- CIDR is a large topic and needs to be looked at in more detail
+- 192.168.4.0/24
+  * 255.255.255.0
+  * 1 subnet and 254 hosts
+- Overview on Specific CIDR
+  * 1000 0000 = /25 = 2 subnets, 126 hosts
+  * 1100 0000 = /26 = 4 subnets, 62 hosts
+  * 1110 0000 = /27 = 8 subnets, 30 hosts
+  * 1111 0000 = /28 = 16 subnets, 14 hosts
+  * 1111 1000 = /29 = 32 subnets, 6 hosts
+  * 1111 1100 = /30 = 64 subnets, 2 hosts
+
+### IPv4 Address Transmission Types
+- Unicast
+- Broadcast
+- Multicast
+
+### Revisiting Domains
+- Collision
+- Broadcast
+
+### Private IP Addresses
+- Classful Private IPs
+- Class A
+  * Range: 10.0.0.0 - 10.255.255.255
+  * Default Mask: 255.255.0.0
+- Class B
+  * Range: 172.16.0.0 - 172.31.255.255
+  * Default Mask: 255.255.0.0
+- Class C
+  * Range: 192.168.0.0 - 192.168.255.255
+  * Default Mask: 255.255.255.0
+- RFCs 1918, 5737
+- APIPA: 169.254.0.0/16 (technically Class B)
+
+### Revisiting NAT and PAT
+- NAT serves as a "shim" for IPv4
+- Routers and admins maintain the NAT table
+- PAT maps protocol ports
+- We don't need NAT/PAT for IPv6
+
+### IPv6
+- IPv6 History and Basics
+  * Finalized in RFC 1883 (1996)
+  * 128 bit address space
+  * 5*10 to the power of 28 IP addresses for every person on earth
+  * Benefits
+    - Simplified header structure
+    - No broadcasts or packet fragmentation (unicast, multicast, and anycast)
+    - Built-in IPSec
+    - Co-existence with IPv4 (dual-stack, tunnels)
+    
+### IPv6 Address Format
+- Uses hexadecimal (base 16) numbers for greater range
+- 128 bits broken into 64 for network and 64 for node
+  * 8 groups of 4 hex digits, with each group representing 16 bits (2 octets)
+- Dropped leading zeros and compression
+  * Format before - 2001:0db8:45b6:0:0:0:0:1
+  * Format after - 2001:db8:45b6::1 
+- Auto address generation
+- DHCPv6
+  * AAAA
+- IPv6 Address Types
+  * Stateless Address Autoconfiguration (SLAAC)
+    - Link-local addresses fs80::/64
+    - EUI-64 derives IPv6 address by inserting a fixed value along with the 48-bit MAC address
+
   
   
