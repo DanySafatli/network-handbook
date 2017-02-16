@@ -954,3 +954,72 @@ Entry level certification
 - Teredo: Can be used with NAT (written by a Microsoft employee)
 - Miredo: *NIX implementation of Teredo
   
+## 1.8.Z Appendix
+
+### Useful Links
+- MAC Address (https://en.wikipedia.org/wiki/MAC_address)
+- MAC Address and OUI Lookup (http://aruljohn.com/mac.pl)
+- Hexadecimal (https://en.wikipedia.org/wiki/Hexadecimal)
+- Hex to Decimal Converter (http://www.binaryhexconverter.com/hex-to-decimal-converter)
+- Binary to Decimal Converter (http://www.binaryhexconverter.com/binary-to-decimal-converter)
+- Address Resolution Protocol (ARP) (https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
+- Wireshark (https://www.wireshark.org/)
+- Ubuntu Linux Desktop (http://www.ubuntu.com/download/desktop)
+- RFC 791 (https://www.ietf.org/rfc/rfc791.txt)
+- RFC Lookup (https://www.rfc-editor.org/search/rfc_search.php)
+- Internet Assigned Numbers Authority (IANA) (http://www.internetassignednumbersauthority.org/)
+- IEEE (https://www.ieee.org/index.html)
+- IPv4 Address Exhaustion (https://en.wikipedia.org/wiki/IPv4_address_exhaustion)
+- Classful vs. Classless IPv4 Addressing (https://learningnetwork.cisco.com/docs/DOC-24528)
+- Classful Network (https://en.wikipedia.org/wiki/Classful_network)
+- Subnetwork (https://en.wikipedia.org/wiki/Subnetwork)
+- Subnet Mask Cheat Sheet (http://www.aelius.com/njh/subnet_sheet.html)
+- List of Assigned /8 IPv4 Address Blocks (https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks)
+- Default Gateway (https://en.wikipedia.org/wiki/Default_gateway)
+- Classless Inter-Domain Routing (CIDR) (https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
+- Unicast, Broadcast, and Multicast (http://www.inetdaemon.com/tutorials/internet/ip/addresses/unicast_vs_broadcast.shtml)
+- Anycast (https://en.wikipedia.org/wiki/Anycast)
+- Collision Domains vs. Broadcast Domains (http://ciscoskills.net/2011/03/30/collision-domains-vs-broadcast-domains/)
+- RFC 1918 (https://tools.ietf.org/html/rfc1918)
+- RFC 3330 (https://www.rfc-editor.org/rfc/rfc3330.txt)
+- Windows PowerShell (https://en.wikipedia.org/wiki/Windows_PowerShell)
+- RFC 2460 (https://tools.ietf.org/html/rfc2460)
+- Solarwinds Advanced Subnet Calculator (http://www.solarwinds.com/products/freetools/free_subnet_calculator.aspx)
+- IPv6: Dual-Stack vs. Tunneling (http://www.networkworld.com/article/2285078/tech-primers/ipv6--dual-stack-where-you-can--tunnel-where-you-must.html)
+- IPv6 Transition Mechanisms (https://en.wikipedia.org/wiki/IPv6_transition_mechanisms)
+- IPv6 Transition Technologies (http://ipv6.com/articles/gateways/IPv6-Tunnelling.htm)
+- Loopback (https://en.wikipedia.org/wiki/Loopback)
+- Localhost (https://en.wikipedia.org/wiki/Localhost)
+- Cisco CCENT (http://www.cisco.com/web/learning/certifications/entry/ccent/index.html)
+- Cisco CCNA (http://www.cisco.com/web/learning/certifications/associate/ccna/index.html)
+
+## 1.9 Understanding Routing Concepts and Protocols
+
+### Study Alerts for Exam
+- Identify
+  * General characteristics of routing protocols
+- Visualize
+  * Packet flow to help you solve network problems
+
+### Introduction to Routing
+- What's a loopback address?
+  * Tests IP data flows for the localhost (diagnostics)
+  * IPv4: 127.0.0.1/8
+  * IPv6 ::1/128
+
+### Understanding Routing
+- Packet transfers between IP subnetworks (broadcast domains)
+- OSI Layer 3 IP addresses
+- Route path options
+  * Static routes: Okay for smallest of internetworks
+  * Dynamic routes: Routers build a routing table by communicating with neighboring routers
+- Default route: The router's "default gateway"
+
+### Routing vs. Routed Protocols
+- Routing protocols are used by routers to calculate best routes to remote networks
+  * RIPv2, OSPF, BGP
+- Routed protocols represent the data handles by routers
+  * TCP/IP suite, with IPv4 and IPv6 in particular
+
+### More Routing Vocabulary
+- Convergence: The time it takes for all routers in an internetwork to possess a complete routing table
