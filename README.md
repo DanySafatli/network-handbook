@@ -1104,3 +1104,15 @@ Entry level certification
 - Redistributing Routing Protocols (http://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8606-redist.html)
 - Route Redistribution Explained (https://supportforums.cisco.com/document/12015996/route-redistribution-explained)
 
+## 1.10 Introducing Unified Communication Technologies
+
+### Study Alerts for Exam
+- Recognize
+  * UC vocabulary terms and business use case
+- Visualize
+  * Audio/video packet flow among all the UC components
+
+### Defining Unified Communications
+- Unified Communications
+  * Integration of real time, enterprise, communication services such as instant messaging (chat), presence information, voice (including IP telephony), mobility features (including extension mobility and single number reash), audio, web & video conferencing, fixed mobile convergence (FMC), desktop sharing, data sharing (including web-connected electronic interactive whiteboards), call control and speech recognition with non-real-time communication services such as unified messaging (integrated voicemail, e-mail, SMS and fax)
+  
