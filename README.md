@@ -1023,3 +1023,16 @@ Entry level certification
 
 ### More Routing Vocabulary
 - Convergence: The time it takes for all routers in an internetwork to possess a complete routing table
+- Latency: Time it takes for a packet to cross router interfaces
+- Administrative distance (AD): Arbitrary that judges precedence of a route (eg. Directly connected route = 1; bad route 100, etc.)
+- Maximum Transmission Unit (MTU): The largest data unit that can be passed without dividing it into segments (fragmentation)
+- Bandwidth: Link speed
+
+### Routing Loops
+- Occurs when a routing protocol algorithm error occurs
+- Network traffic forms infinite loop
+- Split horizon: Prevents a route learned on one interface from being advertised out same interface
+- Poison Reverse: Marks Split Horizon routes with infinite metric
+
+### Distance-Vector Routing Protocols
+-
