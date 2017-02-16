@@ -1116,3 +1116,27 @@ Entry level certification
 - Unified Communications
   * Integration of real time, enterprise, communication services such as instant messaging (chat), presence information, voice (including IP telephony), mobility features (including extension mobility and single number reash), audio, web & video conferencing, fixed mobile convergence (FMC), desktop sharing, data sharing (including web-connected electronic interactive whiteboards), call control and speech recognition with non-real-time communication services such as unified messaging (integrated voicemail, e-mail, SMS and fax)
   
+### UC Value Proposition
+- Can retire expensive analog PBX and leased lines
+- Enhanced collaboration
+  * Presence, IM, Web conferencing
+- With IP telephony, avoid long distance PSTN charges
+- Gives business reach to everyone, everywhere
+  * Can get business calls on your mobile phone
+- Improved business results at lower costs (in the long term)
+
+### Unified Communications Terminology
+- (IP) Telephony: audio and/or video
+- Voice over IP (VOIP): Transmitting audio and video over IP networks
+- A/V conferencing: Remote teams/remote presentations
+- Instant Messaging: Real-time chat
+- Presence: Reveals online status
+- Codec: Coder/Decoder; G.711 (PCM 64Kbps audio) and H.264 (compressed video)
+- IP transmissions
+  * Unicast
+  * Multicast
+
+### UC Protocol Stack
+
+  
+  
