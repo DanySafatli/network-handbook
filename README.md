@@ -945,6 +945,8 @@ Entry level certification
   * Stateless Address Autoconfiguration (SLAAC)
     - Link-local addresses fs80::/64
     - EUI-64 derives IPv6 address by inserting a fixed value along with the 48-bit MAC address
+- Loopback for IPv6 - ::1/128
 
-  
+### IPv6 Transition Protocols
+
   
