@@ -1052,4 +1052,18 @@ Entry level certification
   * Called a Path Vector routing protocol
 - Autonomous System (AS): Globally unique identifiers that connect large scale IP networks under the same routing policies
 
+### Advanced Routing Concepts
+- Interior and Exterior Gateway Protocols
+  * Interior Gateway Protocols (IGPs): Handle routing within an autonomous system (AS, routing domain)
+    - This is where distance-vector and link-state routing protocols fit
+  * Exterior Gateway Protocol (EGPs): Handle routing between ASs (think: service provider)
+  
+### Routing High Availability
+- Shortest Path Bridging (SPF): IEEE 802.1aq; enables multipath routing
+- Virtual Router Redundancy Protocol (VRRP) - IETF standard
+- Hot Standby Router Protocol (HSRP) - Cisco proprietary
+- Virtual IP (VIP)
+
+### Route Redistribution/Aggregation
+
 
