@@ -1035,4 +1035,21 @@ Entry level certification
 - Poison Reverse: Marks Split Horizon routes with infinite metric
 
 ### Distance-Vector Routing Protocols
--
+- Uses hop count as its routing metric
+- Routing Information Protocol version 2 (RIPv2)
+
+### Link-State Routing Protocols
+- Router builds a map of the internetwork
+  * Uses Link-state advertisements (LSAs)
+- Metrics: cost values
+- Protocol examples:
+  * Open shortest Path First (OSFP); used in enterprise networks due to its performance and flexibility
+- Intermediate System-to Intermediate System (IS-IS): Uses the Shortest Path Algorithim (SPF); used by ISPs
+
+### Hybrid Routing Protocols
+- Takes into account both hop count and cost metrics
+- Border Gateway Protocol (BGP): "The routing protocol of the internet
+  * Called a Path Vector routing protocol
+- Autonomous System (AS): Globally unique identifiers that connect large scale IP networks under the same routing policies
+
+
