@@ -1154,3 +1154,21 @@ Entry level certification
 - Edge router
 
 ### UC Hardware
+- IP soft phone
+- VoIP gateway/integrated services router
+- UC management software
+- Analog PBX
+
+### Quality of Service QoS
+- ITU-T has a subjective call quality index called Mean Opinion Score (MOS)
+- ITU-T now moving toward the E-Model, which is more quantitative
+- Network engineers use either DSCP or CoS to "mark" packets with priority levels
+  * Layer 4: Segment
+  * Layer 3: Packet
+  * Layer 2: Frame
+  * layer 1: Bits
+- Differentiated Service Code Point (DSCP, sometimes DiffServ): Layer 3; 6 bits of the type of service (ToS) field of a VoIP packet header
+- Class of Service (CoS): Layer2; present in 802.1Q VLAN frame
+
+
+
