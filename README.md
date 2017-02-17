@@ -1276,5 +1276,52 @@ Entry level certification
 - Hybrid Cloud
   * Integrate public cloud services into private cloud
   * System Center and MS Azure
-  
- 
+
+### Cloud Computing Practical Considerations
+- Community cloud: Two or more organizations "pitch in" to create their own hybrid cloud (possible concerns of security)
+- Remote access via SSH (TCP 22) or RDP (TCP 3389)
+- Monitoring: built-in or third party network analyzer
+  * Not to be confused with a protocol analyzer
+  * Amazon Web Services (AWS) allows Nagios Network Analyzer
+
+## 1.11.Z Appendix
+
+### Useful Links
+- Pluralsight: CompTIA Cloud Essentials (http://www.pluralsight.com/courses/comptia-cloud-essentials)
+- Pluralsight: Understanding the Difference Between Microsoft Azure and Amazon Web Services (http://www.pluralsight.com/courses/understanding-microsoft-azure-amazon-aws)
+- Pluralsight: ComptIA Storage+ Part 1 (http://www.pluralsight.com/courses/comptia-storage-plus-pt1-storage-fundamentals)
+- Definition: Virtualization (https://en.wikipedia.org/wiki/Virtualization)
+- Virtualization Basics (https://www.vmware.com/virtualization/virtualization-basics/what-is-virtualization)
+- Definition: Hypervisor (https://en.wikipedia.org/wiki/Hypervisor)
+- VMware: (https://www.vmware.com/)
+- Oracle VM VirtualBox (https://www.virtualbox.org/)
+- Citrix XenServer (http://www.citrix.com/products/xenserver/overview.html)
+- Microsoft Hyper-V (http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx)
+- x86 Virtualization - (https://en.wikipedia.org/wiki/X86_virtualization)
+- VMware Virtual Networking Concepts (https://www.vmware.com/files/pdf/virtual_networking_concepts.pdf)
+- Software-Defined Networking (SDN) (https://en.wikipedia.org/wiki/Software-defined_networking)
+- Difference Between Control Plan and Data Plane (http://sdntutorials.com/difference-between-control-plane-and-data-plane/)
+- NAS and SAN Overview (http://www.nas-san.com/differ.html)
+- Fibre Channel (https://en.wikipedia.org/wiki/Fibre_Channel)
+- Hyper-V Virtual Fibre Channel Overview (https://technet.microsoft.com/en-us/library/hh831413.asp)
+- iSCSI Basics (https://www.thomas-krenn.com/en/wiki/ISCSI_Basics)
+- iSCSI SANs Compared (http://www.tomshardware.com/reviews/adaptec-enhance-technology,1802-2.html)
+- Microsoft iSCSI Initiator Step-by-Step Guide (https://technet.microsoft.com/en-us/library/ee338476(v=ws.10).aspx)
+- SCSI Initiator and Target (https://en.wikipedia.org/wiki/SCSI_initiator_and_target)
+- Windows Server 2012 R2: iSCSI Target (http://blogs.technet.com/b/filecab/archive/2013/07/31/iscsi-target-server-in-windows-server-2012-r2.aspx)
+- Microsoft's Perspective of Cloud Computing: (https://technet.microsoft.com/en-us/gg521165.aspx)
+- What is Cloud Computing? (http://whatiscloud.com/cloud_characteristics/multi_tenancy)
+- Understanding the Cloud Computing Stack: (http://www.rackspace.com/knowledge_center/whitepaper/understanding-the-cloud-computing-stack-saas-paas-iaas)
+- Definition: Cloud Computing: (https://en.wikipedia.org/wiki/Cloud_computing)
+- Cloud Service Models: http://searchcloudcomputing.techtarget.com/definition/SPI-model
+- The Four Primary Cloud Deployment Models: (http://cloudtweaks.com/2012/07/4-primary-cloud-deployment-models/)
+- Cloud Deployment Models: (http://www.awesomecloud.com/channel-partners/resources/how-to-sell-cloud-computing/deployment-models/#.VSglYO7F8bw)
+- Amazon Web Services: (AWS) (https://aws.amazon.com/)
+- Microsoft Azure: (https://azure.microsoft.com/en-us/)
+- Google Cloud Platform: (https://cloud.google.com/)
+- Microsoft Private Cloud White Paper (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDwQFjAA&url=http%3A%2F%2Fwww.microsoft.com%2Fclick%2Fservices%2FRedirect2.ashx%3FCR_EAC%3D300035806&ei=DiYoVcKNLtPnoASd84CoDQ&usg=AFQjCNHtrwOqWBGnv4apnARbTA2SSBWpnQ&sig2=_zGHBoIr6me0u9rR6YY4Qg&bvm=bv.90491159,d.aWw)
+- Architecting a Microsoft Private Cloud (https://technet.microsoft.com/en-us/magazine/hh127072.aspx)
+- Microsoft System Center 2012 R2 (http://www.microsoft.com/en-us/server-cloud/products/system-center-2012-r2/)
+- Remote Desktop Protocol (RDP) (https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
+- Nagios Network Analyzer (http://www.nagios.com/products/nagios-network-analyzer)
+
