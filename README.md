@@ -1208,3 +1208,26 @@ Entry level certification
 - 3CX VoIP Gateway (http://www.3cx.com/pbx/voip-gateway/)
 - Mean Opinion Score (MOS) (https://en.wikipedia.org/wiki/Mean_opinion_score)
 - The E-Model Tutorial (https://www.itu.int/ITU-T/studygroups/com12/emodelv1/tut.htm)
+
+## 1.11 Comparing Cloud and Virtualization Technologies
+
+### Study Alerts for Exam
+- Understand the major cloud computing models
+- Memorize Some of the picky protocol details of SANs
+
+### Virtualization
+- Hardware virtualization
+- Host: Running a hypervisor
+  * Part of a CPU feature set
+  * Microsoft Hyper-V
+  * VMWare vSphere/EXSi
+- Guest: The nested OS
+  * "borrows" host hardware
+- Lots of business benefits
+
+### Virtual Networks
+- Bridged: VM appears on same network as host
+- NAT: VM "hides" behind host's IP address
+- Host to Host: Internal private network
+- Software-Defined Networking (SDN): Seperation of ocntrol plane from data plane
+
