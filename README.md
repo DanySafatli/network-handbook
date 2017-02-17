@@ -1327,4 +1327,24 @@ Entry level certification
 
 ## 1.12 Implementing a Basic Network
 
-### 
+### Network Design Basics
+- Request for Proposal (RFP)
+- Top Down Network Design
+  * instead of starting with hardware, begin with business requirments and technical needs, wants, and constraints
+  * What are the technical challenges?
+  * Proposed solution
+  * Implementation
+- Network design requirements understanding of project management best practices
+  * PMI Project Management Professional (PMP)
+- importance of documentation/tools
+
+### Device Types and Requirements
+- What kind of Ethernet will you run?
+  * 1000BaseTX to desktop
+  * 1000Base-SR for multimode fiber trunk/core runs
+  * 10Gbase-SR for SAN
+- What's going on in your cable runs? (airflow, plenum-grade cable)
+- Are you buying or leeasing your hardware?
+- How compatible is your physical plant with Wi-Fi?
+
+  
