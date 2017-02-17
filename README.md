@@ -12,7 +12,7 @@ Entry level certification
 - Not all multiple choice questions
 - Passing is 720 and above from scale 100-900
 
-## 1. Network Architecture for CompTIA Network+
+## 1. Overview of Network Architecture for CompTIA Network+
 
 - Introducing network devices
 - Understanding network services and applications
@@ -1325,3 +1325,6 @@ Entry level certification
 - Remote Desktop Protocol (RDP) (https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
 - Nagios Network Analyzer (http://www.nagios.com/products/nagios-network-analyzer)
 
+## 1.12 Implementing a Basic Network
+
+### 
