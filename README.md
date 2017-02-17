@@ -1362,109 +1362,54 @@ Entry level certification
   * On-demand or "always on" VPN solutions
 - Physical security
 
+### Intermediate Distribution Frame (IDF)
+- Power Strip
+- Patch panel (copper, fiber)
+- Access/distribution switches (Layer 3, STP)
+- UPS
+- Top-of-rack vs. End-of-row uplink/aggregation
+
+### Main Distribution Frame (MDF)
+- DWDM/multi-mode fiber vertical run
+- Fiber patch panel to aggregate from IDF
+- FCoE SAN
+
 ## 1.12.Z Appendix
 
 ### Useful Links
--
-
-Pluralsight: Cisco CCNA Wireless Design and Troubleshooting
-http://www.pluralsight.com/courses/cisco-ccna-wireless-design-troubleshooting
-
-Pluralsight: Cisco CCNP Security: Secure Design Principles
-http://www.pluralsight.com/courses/cisco-ccnp-security-secure-design-principles
-
-Pluralsight: Project+
-http://www.pluralsight.com/courses/comptia-project-plus-pt1
-
-Pluralsight: PMP
-http://www.pluralsight.com/courses/pmp-introduction-project-management-pmp-exam
-
-Definition: SOHO
-http://www.webopedia.com/TERM/S/SOHO.html
-
-Sample Request for Proposal (RFP)
-http://www.qando.net/wp-content/uploads/rfp_web_sample.pdf
-
-Another Sample RFP
-http://www.aia.org/aiaucmp/groups/ek_public/documents/pdf/aiap037331.pdf
-
-Sample Network Design Proposal
-http://normcoleman.norkris.com/Samples/HappyHavenDayCareCenter-NetworkDesignProposal2.pdf
-
-Top-Down Network Design
-http://www.pearsonitcertification.com/articles/article.aspx?p=1686038
-
-Greenfield Project
-https://en.wikipedia.org/wiki/Greenfield_project
-
-Definition: DWDM
-http://www.webopedia.com/TERM/D/DWDM.html
-
-Single-Mode vs. Multi-Mode Optical Fiber
-http://www.multicominc.com/training/technical-resources/single-mode-vs-multi-mode-fiber-optic-cable/
-
-Gigabit Interface Converter (GBIC)
-https://en.wikipedia.org/wiki/Gigabit_interface_converter
-
-Understanding Ethernet Nomenclature
-http://www.brocade.com/downloads/documents/technical_briefs/Ethernet_Nomenclature_GA-TB-357.pdf
-
-Limitations Affecting Equipment Installations
-http://www.ciscopress.com/articles/article.asp?p=355876&seqNum=2
-
-Microsoft Visio
-https://products.office.com/en-us/visio/flowchart-software
-
-Dia Diagram Editor
-http://sourceforge.net/projects/dia-installer/
-
-OmniGraffle
-https://www.omnigroup.com/omnigraffle
-
-Lowell Vanderpool - YouTube
-https://www.youtube.com/user/vanderl2796
-
-Demarcation Point
-https://en.wikipedia.org/wiki/Demarcation_point
-
-Demarc Extension
-https://en.wikipedia.org/wiki/Demarcation_point#Demarc_extension
-
-Network Access Control
-https://en.wikipedia.org/wiki/Network_Access_Control
-
-Cisco NAC Appliance
-http://www.cisco.com/c/en/us/products/security/nac-appliance-clean-access/index.html
-
-Bring Your Own Device
-https://en.wikipedia.org/wiki/Bring_your_own_device
-
-IEEE 802.1Q
-https://en.wikipedia.org/wiki/IEEE_802.1Q
-
-HID Proximity Card Readers
-https://www.hidglobal.com/products/readers/hid-proximity
-
-CIDR Notation Tutorial
-http://compnetworking.about.com/od/workingwithipaddresses/a/cidr_notation.htm
-
-Solarwinds IP Calculator
-http://www.solarwinds.com/products/freetools/free_subnet_calculator.aspx
-
-Intermediate Distribution Frame
-https://en.wikipedia.org/wiki/Intermediate_distribution_frame
-
-Main Distribution Frame
-https://en.wikipedia.org/wiki/Main_distribution_frame
-
-UPS Selector Tool
-http://www.apc.com/tools/ups_selector/
-
-Top-of-Rack vs. End-of-Row Designs
-http://bradhedlund.com/2009/04/05/top-of-rack-vs-end-of-row-data-center-designs/
-
-Cisco Catalyst 6500 Series Data Center Switches
-http://www.cisco.com/c/en/us/products/switches/catalyst-6500-series-switches/index.html\\
+- Pluralsight: Cisco CCNA Wireless Design and Troubleshooting: (http://www.pluralsight.com/courses/cisco-ccna-wireless-design-troubleshooting)
+- Pluralsight: Cisco CCNP Security: Secure Design Principles: (http://www.pluralsight.com/courses/cisco-ccnp-security-secure-design-principles)
+- Pluralsight: Project+: (http://www.pluralsight.com/courses/comptia-project-plus-pt1)
+- Pluralsight: PMP: (http://www.pluralsight.com/courses/pmp-introduction-project-management-pmp-exam)
+- Definition: SOHO: (http://www.webopedia.com/TERM/S/SOHO.html)
+- Sample Request for Proposal (RFP): (http://www.qando.net/wp-content/uploads/rfp_web_sample.pdf)
+- Another Sample RFP: (http://www.aia.org/aiaucmp/groups/ek_public/documents/pdf/aiap037331.pdf)
+- Sample Network Design Proposal: (http://normcoleman.norkris.com/Samples/HappyHavenDayCareCenter-NetworkDesignProposal2.pdf)
+- Top-Down Network Design: (http://www.pearsonitcertification.com/articles/article.aspx?p=1686038)
+- Greenfield Project: (https://en.wikipedia.org/wiki/Greenfield_project)
+- Definition: DWDM: (http://www.webopedia.com/TERM/D/DWDM.html)
+- Single-Mode vs. Multi-Mode Optical Fiber: (http://www.multicominc.com/training/technical-resources/single-mode-vs-multi-mode-fiber-optic-cable/)
+- Gigabit Interface Converter (GBIC): (https://en.wikipedia.org/wiki/Gigabit_interface_converter)
+- Understanding Ethernet Nomenclature: (http://www.brocade.com/downloads/documents/technical_briefs/Ethernet_Nomenclature_GA-TB-357.pdf)
+- Limitations Affecting Equipment Installations: (http://www.ciscopress.com/articles/article.asp?p=355876&seqNum=2)
+- Microsoft Visi:o (https://products.office.com/en-us/visio/flowchart-software)
+- Dia Diagram Editor: (http://sourceforge.net/projects/dia-installer/)
+- OmniGraffle: (https://www.omnigroup.com/omnigraffle)
+- Lowell Vanderpool: - YouTube (https://www.youtube.com/user/vanderl2796)
+- Demarcation Point: (https://en.wikipedia.org/wiki/Demarcation_point)
+- Demarc Extension: (https://en.wikipedia.org/wiki/Demarcation_point#Demarc_extension)
+- Network Access Control: (https://en.wikipedia.org/wiki/Network_Access_Control)
+- Cisco NAC Appliance: (http://www.cisco.com/c/en/us/products/security/nac-appliance-clean-access/index.html)
+- Bring Your Own Device: (https://en.wikipedia.org/wiki/Bring_your_own_device)
+- IEEE 802.1Q: (https://en.wikipedia.org/wiki/IEEE_802.1Q)
+- HID Proximity Card Readers: (https://www.hidglobal.com/products/readers/hid-proximity)
+- CIDR Notation TutorialL: (http://compnetworking.about.com/od/workingwithipaddresses/a/cidr_notation.htm)
+- Solarwinds IP Calculator: (http://www.solarwinds.com/products/freetools/free_subnet_calculator.aspx)
+- Intermediate Distribution Frame (https://en.wikipedia.org/wiki/Intermediate_distribution_frame)
+- Main Distribution Frame (https://en.wikipedia.org/wiki/Main_distribution_frame)
+- UPS Selector Tool (http://www.apc.com/tools/ups_selector/)
+- Top-of-Rack vs. End-of-Row Designs (http://bradhedlund.com/2009/04/05/top-of-rack-vs-end-of-row-data-center-designs/)
+- Cisco Catalyst 6500 Series Data Center Switches (http://www.cisco.com/c/en/us/products/switches/catalyst-6500-series-switches/index.html)
 
 
 
