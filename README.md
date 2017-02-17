@@ -1231,3 +1231,50 @@ Entry level certification
 - Host to Host: Internal private network
 - Software-Defined Networking (SDN): Seperation of ocntrol plane from data plane
 
+### Storage Area Networks (SANs)
+- Network-Attached Storage (NAS): File-level access to storage using CIFS and NFS
+  * the cost effective option
+- Storage Area Network (SAN): Block-level access to storage
+- You can easily virtualize iSCSI
+- Some hypervisors even have virtual fibre Channel adapters
+
+### Protocol Encapsulation
+- Fibre Channel: High-speed (16Gbps) storage architecture
+  * Expensive
+- iSCSI: SCSI storage commands transmitted over full-duplex Ethernet
+  * Cheap
+- Jumbo frames: Ethernet frames are normally 1500 bytes (payload), but the Jumbo Frame spec allows MTUs of 9000 bytes
+
+### Cloud Concepts
+- What is cloud computing?
+  * Service on demand/on tap
+  * On-demand self-service
+  * Resource pooling
+  * Broad access
+  * Rapid elasticity
+
+### Cloud Service Models
+- SaaS
+  * Aimed at end users
+  * Examples: Dropbox, Office 365
+- PaaS
+  * Aimed at developers
+  * May overlap with SaaS and IaaS
+  * Examples: AWS, Azure, Google Cloud
+- Iaas
+  * Infrastructure as a Service
+  * Aimed at IT pros
+  * AWS, Azure, Google Cloud
+
+### Cloud Delivery Models
+- Public Cloud
+  * All customers have same access
+  * Dropbox
+- Private Cloud
+  * Business builds its own cloud infrastructure
+  * Expensive
+- Hybrid Cloud
+  * Integrate public cloud services into private cloud
+  * System Center and MS Azure
+  
+ 
