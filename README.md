@@ -1137,6 +1137,20 @@ Entry level certification
   * Multicast
 
 ### UC Protocol Stack
+- Session Initiation Protocol (SIP): VoIP signaling protocol; can be trunked across WAN connections
+  * Low overhead, HTTP-like behaviour
+- Real-Time transport protocol (RTP): Carries voice and interactive video
+  * Transport layer; UDP instead of TCP
+- TLS (SRTP): Encrypts SIP traffic
+- DiffServ or DS: QoS architecture model
+- Extensible Messaging and Presence Protocol (XMPP): Open-source UC platform (Jabber)
 
-  
-  
+### UC Components
+- VoIP phone/soft phone
+- Access switch
+- UC server(s)
+- UC gateway
+- IP or analog PBX
+- Edge router
+
+### UC Hardware
