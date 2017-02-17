@@ -1170,5 +1170,41 @@ Entry level certification
 - Differentiated Service Code Point (DSCP, sometimes DiffServ): Layer 3; 6 bits of the type of service (ToS) field of a VoIP packet header
 - Class of Service (CoS): Layer2; present in 802.1Q VLAN frame
 
+## 1.10.Z Appendix
 
-
+### Useful Links
+- Pluralsight: Cisco CCNA Voice: Voice Overview and Lab Setup (http://www.pluralsight.com/courses/cisco-ccna-voice-overview)
+- Pluralsight: Lync Server 2013: Introduction to Enterprise Voice and Unified Messaging (http://www.pluralsight.com/courses/lync-2013-enterprise-voice)
+- Definition: Use Case (https://en.wikipedia.org/wiki/Use_case)
+- Definition: Unified Communications (https://en.wikipedia.org/wiki/Unified_communications)
+- Definition: Value Proposition (https://en.wikipedia.org/wiki/Value_proposition)
+- Definition: Voice over IP (https://en.wikipedia.org/wiki/Voice_over_IP)
+- VoIP Basics (http://www.tns.com/voip.asp)
+- ITU-T (http://www.itu.int/en/ITU-T/Pages/default.aspx)
+- IEEE 802.1X (https://en.wikipedia.org/wiki/IEEE_802.1X)
+- IEEE 802.1Q (https://en.wikipedia.org/wiki/IEEE_802.1Q)
+- Cisco WebEx (http://www.webex.com/)
+- GoToMeeting (http://www.gotomeeting.com/online/start)
+- BlueJeans (http://bluejeans.com/)
+- Skype for Business (http://www.skype.com/en/business/)
+- VoIP Protocols and Standards (http://www.protocols.com/pbook/voip.htm)
+- Session Initiation Protocol (SIP) (https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
+- Real-Time Transport Protocol (RTP) (https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
+- Secure RTP (https://en.wikipedia.org/wiki/Secure_Real-time_Transport_Protocol)
+- Transport Layer Security (TLS) (https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- Wireshark Sample Captures (https://wiki.wireshark.org/SampleCaptures)
+- Dia Diagram Editor (http://sourceforge.net/projects/dia-installer/)
+- The XMPP Standards Foundation (https://xmpp.org/)
+- Selecting the Right VoIP Phone System (http://www.voipsupply.com/buying-voip-phone-system)
+- IP Phone Buying Guide (http://www.voiplink.com/voip-articles/ip-phone-buying-guide)
+- DSCP vs. CoS (https://learningnetwork.cisco.com/thread/44413)
+- Difference Between DSCP and CoS (https://elhallak.wordpress.com/2011/08/07/what-is-the-difference-between-cos-ip-precedence-and-dscp/)
+- Type of Service (https://en.wikipedia.org/wiki/Type_of_service)
+- Cisco IP Communicator (http://www.cisco.com/c/en/us/products/collaboration-endpoints/ip-communicator/index.html)
+- IP Softphone (https://en.wikipedia.org/wiki/Softphone)
+- VoIP Components (https://technet.microsoft.com/en-us/library/bb663730(v=office.12).aspx)
+- Comparing Analog and Digital Voice Systems (http://www.shoretelsky.com/resources/learn/analog-phone-system-vs-digital-phone-system/)
+- Private Branch Exchange (PBX) (https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange)
+- 3CX VoIP Gateway (http://www.3cx.com/pbx/voip-gateway/)
+- Mean Opinion Score (MOS) (https://en.wikipedia.org/wiki/Mean_opinion_score)
+- The E-Model Tutorial (https://www.itu.int/ITU-T/studygroups/com12/emodelv1/tut.htm)
