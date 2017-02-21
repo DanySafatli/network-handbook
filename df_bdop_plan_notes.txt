@@ -1,0 +1,202 @@
+Title
+==============================================
+df_bdop
+df_bdop_plan
+df_bdop_a01_it_enus_storyboard
+Big Data Operations
+
+
+
+
+
+
+LOGINS + BOOK ID
+===================================================================================
+danieljenkins11@hotmail.com
+!Waterfa115
+
+
+
+
+============================================================================
+
+==================================================================================
+
+USEFUL LINKS
+===================================
+https://channels.theinnovationenterprise.com/articles/advancements-in-big-data-in-2015
+https://www.bbvaopenmind.com/en/article/big-data-and-the-future-of-business/?fullscreen=true
+https://www.virtualizationpractice.com/big-data-operations-management-19219/
+http://www.kdnuggets.com/2016/12/big-data-main-developments-2016-key-trends-2017.html
+http://www.ibmbigdatahub.com/blog/big-data-and-analytics-trends-2017-james-kobielus-s-predictions
+http://insidebigdata.com/2016/12/21/big-data-industry-predictions-2017/
+https://blog.appdynamics.com/product/big-data-monitoring/
+http://www.a1qa.com/blog/testing-big-data-three-fundamental-components/
+http://qaconsultants.com/wp-content/uploads/2015/10/Primer-on-Big-Data-Testing.pdf
+http://insidebigdata.com/2014/11/26/ask-data-scientist-data-leakage/
+http://www.ingrammicroadvisor.com/data-center/4-benefits-of-big-data-network-monitoring
+
+
+BOOK ID's
+
+
+
+
+
+REQUIREMENTS FROM CLIENT
+====================================================================================
+Here’s the email that Wade promised you. This is a request that we specifically received from one of our customers. It is part of a large request that specifically focuses on Data Science. Specifically in this case we are looking to cover technical advancements in big data. They provided us the following 2 areas that they want coverage for.
+
+Monitoring, Orchestrating, and Testing in Big Data
+Data Leakage and Model Analysis
+
+When we first looking at this we were thinking we could cover this in 15-20 videos.
+
+Here’s the full path details.
+
+Series name	Big Data Operations
+Series code	df_bdop
+Number of courses	1
+Number of videos	15-20
+Exam info	NA
+Instructor preference	None
+Priority rating	TCS – ASAP
+SP8 CB Locations	1. IT Skills -> Data and Databases -> Big Data
+SP6 CB Locations	1. Collections -> Big Data & Database Collection -> Big Data
+2. IT Professional Curricula -> Enterprise Database Systems Solution Area -> Big Data
+
+Just let me know if you have any questions at all.
+
+
+
+
+
+
+LEARNING PATH DESCRIPTION
+===================================================================================
+Talend is a useful open source ETL tool which provides many essential benefits including a development environment that allows users to interact with many Big Data sources and visualization transformations without the need of complex code. This learning path provides all the essential tools to get started while digging into some of the more complex variations. This learning path is designed for those who wish to familiarize themselves in the architecture and uses of Talend environment.
+
+
+
+
+LEARNING PATH AUDIENCE
+====================================================================================
+This path is designed for developers, prject managers, business intelligence specialists, system architects, analysts and consultants that would like to work on integration projects using Talend. Some knowledge in SQL, XML, Java, File Transfer Protocol (FTP) and familiar with programming would be ideal.
+
+
+
+COURSE 1 DESCRIPTION
+========================================================================================
+Talend provides a easy way to get integration projects done quickly and with less overhead. This course provides assistance in installing Talend as well as providing a tour of the user interface and all its intricacies. While providing a solid understanding of what talend is and what it can do. The course will dive into data conversions as well as database concepts.
+
+
+
+
+
+COURSE 1 GOAL
+=======================================================================================
+
+To install and navigate talend efficiently while understanding how to import data into talend and a basic understanding of databases.
+
+
+COURSE 1 KEYWORDS
+=======================================================================================
+talend, talend install, talend ui, talend project, talend data, talend metadata, talend conversion, talend XML, talend CSV, talend maps, talend expressions, talend lookups, writing data, reading data, databases and talend, talend dynamic lookups, talend and SQL, talend XML, talend multi schema
+
+
+
+
+COURSE 2 DESCRIPTION
+========================================================================================
+Talend has several tools that make it a powerful and cost effective suite. While this course will dive deeper into those tools and their uses. Data mapping, automated operations and job scheduling processes are just a few that are covered to help simplify data integrations and ETL.
+
+
+
+
+
+COURSE 2 GOAL
+==========================================================================================
+To performn various Talend operations including data mapping, processing and other ways of producing results with automation and job scheduling orchestrations.
+
+
+COURSE 2 KEYWORDS
+==========================================================================================
+
+talend data mapping, tMap, talend filtering, talend ftp, talend sorting, normalization, denormalization, talend subjobs, job orchestrations, dataflow merging, talend duplicating, talend export, talend import, talend automation, talend job schedule, talend ETL, talend find, talend replace
+
+
+
+
+PLAN PRODUCTION
+================================================================
+COURSE 1: Big Data Operations
+------------------------------------------
+
+New Generation of Big Data
+	Overview of Big Data Operations
+		provide overview of Big Data Operations
+	Bid Data Operations management
+		provide a overview of what big data operations are
+	Changes with Big Data
+		describe changes since rise of Big Data operations
+	Big Data Trends
+		describe the recent trends and advancements in bid data
+Monitoring Big Data
+	Monitoring Big Data Operations
+		describe what monitoring big data is and what the differences are
+	Monitoring Analytics
+		decribe various monitoring analytics being used today
+	Monitoring and MySQL
+Orchestrations in Big Data
+	Big Data Orchestration
+		provide an overview of big data orchestration
+	Application orchestrations
+		provide an overview of the process of integrating orchestrations
+Testing Big Data Operations
+	Components of Testing Big Data
+		describe the Big Data testing cycle including the various methods in testing Big Data
+	Methods for ETL Testing
+		describe the methods of ETL testing
+	Sample Big Data testing
+		create data tests and generate analytical  outputs
+Data Leakage in Big Data
+	Overview of Data Leakage
+		describe what a data leakage is
+	Protecting Against Big Data Leakage
+		describe ways to prevent data leakage
+	
+
+
+
+COURSE 
+
+New Generation, Bigger Data
+	Overview of Big Data Operations
+		provide overview of Big Data and where it's heading today
+	Industries in Big Data Operations
+		discuss the trends and the various industries that are exposed to big data operations
+	Advancements in Big Data Operations
+		discuss the technologies and advancements in big data
+Monitoring Big Data Operations
+	Monitoring Big Data Repositories
+		discuss the process of monitoring big data repositories
+	Understanding Big Data Metric
+		recognize the various Big Data KPI's and how each can be used
+	Monitoring and resolving performance monitoring
+		discuss the various performance issues and how to solve them using data monitoring 
+	Concepts of Big Data Network Monitoring
+		recognize big data network monitoring operations and it's importance
+Orchestrations in Big Data Operations
+	Trends in Big Data Orchestrations
+		discuss the various software and applications that can be used to provide big data orchestrations
+	Integrating Big Data and Business
+		recognize the operations that integrate big data
+	Big Data and ETL
+		recognize the various processes of automating ETL jobs
+Testing Big Data
+	Methods of Big Data Testing
+		recgognize the various testing methods and load scenarios
+	ETL Testing Principles
+		recognize the testing methods in ETL processes
+	
+
