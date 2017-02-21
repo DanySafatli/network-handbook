@@ -1514,3 +1514,34 @@ Entry level certification
 - Apple OS X
 - Linux
   * CentOS, Redhat, Fedora, OpenSUSE
+  
+### Servers
+- Microsoft Server
+- Apple OS X Server
+- Linux
+  * CentOS, Redhat, Fedora, OpenSUSE
+- Unix
+- Virtualization software
+
+### Mobile Devices
+- Laptop operating system
+  * Microsoft/Apple/Linux
+  * Chrome OS
+- Tablet/smartphone
+  * Android, iOS, Windows Phone
+- Internet of everything
+
+### Keeping the Network Safe
+- Vulnerability or bug patches
+- Patch operating systems
+- Upgrade firmware
+- Upgrade drivers
+
+### Updating Systems
+- Backup the configuration
+- Test the backup configuration
+- Use a test lab if you have one
+- Sometimes have to just implement and hope for the best
+
+## 2.2 Examining Ethernet
+
