@@ -1411,5 +1411,46 @@ Entry level certification
 - Top-of-Rack vs. End-of-Row Designs (http://bradhedlund.com/2009/04/05/top-of-rack-vs-end-of-row-data-center-designs/)
 - Cisco Catalyst 6500 Series Data Center Switches (http://www.cisco.com/c/en/us/products/switches/catalyst-6500-series-switches/index.html)
 
+## 2.1 Overview of Network Operations
+
+### Network Operations
+- Data Centers
+  * Servers, SAN, network
+- Network
+  * Routers, switches, layer 3 switches
+- Wireless
+  * Lightweight and thick access points
+- Clients
+  * Keep network traffic clean
+  
+### Network Models
+- OSI Model
+  * Layer 1 - Physical
+  * Layer 2 - Data Link
+  * Layer 3 - Network
+  * Layer 4 - Transport
+  * Layer 5 - Session
+  * Layer 6 - Presentation
+  * Layer 7 - Application
+- TCP/IP Model
+  * Network Interface
+    - Layer 1,2
+  * Internet
+    - Layer 3
+  * Transport
+    - Layer 4,5,6
+  * Application
+    - Layer 7
+
+### Data Centers
+- Servers
+  * Layer 7 and above
+  * HTTP, HTTPs, FTP, POP3, IMAP, SMTP
+- Storage Area Networks (SAN)
+- Data center networking
+  * Converged networks
+
+  
+      
 
 
