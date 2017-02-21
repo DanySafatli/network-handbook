@@ -1411,9 +1411,9 @@ Entry level certification
 - Top-of-Rack vs. End-of-Row Designs (http://bradhedlund.com/2009/04/05/top-of-rack-vs-end-of-row-data-center-designs/)
 - Cisco Catalyst 6500 Series Data Center Switches (http://www.cisco.com/c/en/us/products/switches/catalyst-6500-series-switches/index.html)
 
-## 2.1 Overview of Network Operations
+## 2.1 Network Operations
 
-### Network Operations
+### Network Operations Overview
 - Data Centers
   * Servers, SAN, network
 - Network
@@ -1449,8 +1449,40 @@ Entry level certification
 - Storage Area Networks (SAN)
 - Data center networking
   * Converged networks
+  * Software Defined Networking (SDN)
+  * OSI Layer 1-7, TCP/IP layers
+- Load balancing
+  * OSI Layer 3
+  * TCP/IP, network interface, transport, application
 
-  
-      
+### Servers
+- Server
+  * HTTP Server Software
+  * Apache, IIS, others
+- Client
+  * HTTP client software
+  * Chrome, Firefox, IE, Safari
+- HTTP GET
+- HTTP Reply
 
+### Network Gear
+- Switches (and formerly hubs)
+  * OSI layer 2 (layer1)
+- Routers
+  * OSI Layer 3
+- Layer 3 switches
+  * OSI layer 2 and 3
+- Wireless access points
+  * OSI Layer 1 and OSI layer 2
+
+### Accessing and Configuring Gear
+- Direct serial connection - console
+- Remote connection
+  * Virtual terminal
+  * SSH or telnet
+- Out of band management - dial-up modem
+- Authentication/Access/Accounting -AAA
+  * RADIUS/TACACS
+
+### Power Over Ethernet - PoE
 
