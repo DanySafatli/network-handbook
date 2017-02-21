@@ -1,0 +1,155 @@
+Title
+==============================================
+df_bdop
+df_bdop_plan
+df_bdop_a01_it_enus_storyboard
+Big Data Operations
+
+
+
+
+
+
+LOGINS + BOOK ID
+===================================================================================
+danieljenkins11@hotmail.com
+!Waterfa115
+
+
+
+
+============================================================================
+
+==================================================================================
+
+USEFUL LINKS
+===================================
+https://channels.theinnovationenterprise.com/articles/advancements-in-big-data-in-2015
+https://www.bbvaopenmind.com/en/article/big-data-and-the-future-of-business/?fullscreen=true
+https://www.virtualizationpractice.com/big-data-operations-management-19219/
+http://www.kdnuggets.com/2016/12/big-data-main-developments-2016-key-trends-2017.html
+http://www.ibmbigdatahub.com/blog/big-data-and-analytics-trends-2017-james-kobielus-s-predictions
+http://insidebigdata.com/2016/12/21/big-data-industry-predictions-2017/
+https://blog.appdynamics.com/product/big-data-monitoring/
+http://www.a1qa.com/blog/testing-big-data-three-fundamental-components/
+http://qaconsultants.com/wp-content/uploads/2015/10/Primer-on-Big-Data-Testing.pdf
+http://insidebigdata.com/2014/11/26/ask-data-scientist-data-leakage/
+http://www.ingrammicroadvisor.com/data-center/4-benefits-of-big-data-network-monitoring
+http://www.guru99.com/big-data-testing-functional-performance.html
+https://www.codeschool.com/courses/try-r
+https://www.nytimes.com/2014/04/07/opinion/eight-no-nine-problems-with-big-data.html?_r=0
+http://www.business2community.com/big-data/top-5-problems-big-data-solve-01597918#XDMLqmTVVhsJHupy.97
+https://www.coursera.org/learn/big-data-management?siteID=SAyYsTvLiGQ-UT5G7Jh6WviA.YawYfWCag&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
+https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723
+https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial/
+https://bigdatauniversity.com/
+https://www.coursera.org/specializations/big-data
+
+BOOK ID's
+
+
+
+
+
+REQUIREMENTS FROM CLIENT
+====================================================================================
+Here’s the email that Wade promised you. This is a request that we specifically received from one of our customers. It is part of a large request that specifically focuses on Data Science. Specifically in this case we are looking to cover technical advancements in big data. They provided us the following 2 areas that they want coverage for.
+
+Monitoring, Orchestrating, and Testing in Big Data
+Data Leakage and Model Analysis
+
+When we first looking at this we were thinking we could cover this in 15-20 videos.
+
+Here’s the full path details.
+
+Series name	Big Data Operations
+Series code	df_bdop
+Number of courses	1
+Number of videos	15-20
+Exam info	NA
+Instructor preference	None
+Priority rating	TCS – ASAP
+SP8 CB Locations	1. IT Skills -> Data and Databases -> Big Data
+SP6 CB Locations	1. Collections -> Big Data & Database Collection -> Big Data
+2. IT Professional Curricula -> Enterprise Database Systems Solution Area -> Big Data
+
+Just let me know if you have any questions at all.
+
+
+LEARNING PATH DESCRIPTION
+===================================================================================
+The Big Data trend is flooding the IT landsacape. While big data is getting bigger, new technologies and new ways of analyzing data are being created daily across all industries. Bulding big data solutions is radically different now than it was when it first began. New problems and challenges have manifested which require new solutions and ways to prevent problems from arising. This path will describe various data genres and the management tools that are commonly used in todays big data era. The path will dive into reasons behind the the new big data platforms with common use case scenarios while navigating through models, tests and orchestrations that  assist in predective modeling and system performance across industry sectors
+
+
+LEARNING PATH AUDIENCE
+====================================================================================
+This path is designed for Project Managers, Business Intelligence or ETL Developers, Data Architects, Data Analysts and big data enthusiasts interested in a higher comprehension of big data. Some knowledge of big data or data science, data warhouse, ETL or any of the applications/software used in the industry today would be ideal
+
+COURSE DESCRIPTION
+========================================================================================
+In the past decade the amount of data being created has increased signifigantly with terabytes of data being generated almost every second, the rate of data creation only accelerating. This growth has affected businesses and how they handle data. To tackle the new challenges of big data comes a new generation of technologies to help leading industries with their data. This course will go through the types of challenges being faced in the day to day by rethinking data systems from the ground up. The course will cover in depth topics such as monitoring tools and orchestrations, performance modeling, testing and predective analysis with some real life use cases and scenarios using the latest applications and software being used in the industry today
+
+GOAL
+=======================================================================================
+To become familiar with the latest trends, current challenges being faced in the leading industries today, identify the frequent data operations required for various types of data including analysis, testing and prevention of some of the major issues being faced in the field
+
+
+
+KEYWORDS
+=======================================================================================
+big data, big data operations, data repositories, big data kpi, r language, big data network, big data orchestrations, big data trends, etl, data warehouse, business intelligence, big data testing, data leak, big data architecture, big data challenges
+
+
+COURSE 
+
+New Generation, Bigger Data
+	Overview of Big Data Operations
+		provide overview of Big Data and where it's heading today
+	Industries in Big Data Operations
+		discuss the trends and the various industries that are exposed to big data operations
+	Advancements in Big Data Operations
+		discuss the technologies and advancements in big data
+Monitoring Big Data Operations
+	Monitoring Big Data Repositories
+		discuss the process of monitoring big data repositories and predictive modeling
+	Understanding Big Data Metrics
+		recognize the various Big Data KPI's and how each can be used
+	R Programming Language 
+		Overview of the R programming language for data analysis and visualization
+	Monitoring and resolving performance monitoring
+		discuss the various performance issues and how to solve them using data monitoring 
+	Concepts of Big Data Network Monitoring
+		recognize big data network monitoring operations and it's importance
+Orchestrations in Big Data Operations
+	Trends in Big Data Orchestrations
+		discuss the various software and applications that can be used to provide big data orchestrations
+	Integrating Big Data and Business
+		recognize the operations that integrate big data
+	Big Data and ETL
+		recognize the various processes of automating ETL jobs
+Testing Big Data
+	Methods of Big Data Testing
+		recgognize the various testing methods and strategies
+	ETL And Data Warehouse Testing Principles
+		recognize the testing methods in ETL processes
+	Performance Testing
+		describe the various methods in performance testing
+	Testing Big Data Loads
+		demonstrate key strategies in big data testing
+Todays Challenges with Big Data
+	Biggest Problems with Big Data Today
+		describe the main challenges business face with big data currently
+	Data Leakage
+		decribe data leakage and ways to prevent it
+	Prevention and Preservance
+		recognize the various ways to keep data clean, maintained and secure
+Excercise: Provisioning Big Data in Operations
+	Big Data Architecture and Model Analysis
+		describe big data trends, challenges and prevention models
+
+
+
+
+
+	
+
