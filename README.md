@@ -1485,4 +1485,32 @@ Entry level certification
   * RADIUS/TACACS
 
 ### Power Over Ethernet - PoE
+- IEEE - 802.3af, 802.3at
 
+### Managing Mobile Devices
+
+### Operating Systems
+- Infrastructure devices
+- Workstations
+- Mobile Devices
+- IoE devices
+
+### Infrastructure Device Operating Systems
+- Cisco Devices
+  * Internetworking Operating System (IOS)
+    - NX-OS
+  * IOS XE
+  * IOS XR
+- Juniper Devices
+  * Junos Operating System
+- HP Devices
+  * Secure Router Operating System (SROS)
+- Extreme Networks
+  * Extreme OS
+  
+### Workstations
+- Microsoft DOS (Legacy)
+- Microsoft Windows
+- Apple OS X
+- Linux
+  * CentOS, Redhat, Fedora, OpenSUSE
