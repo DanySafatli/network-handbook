@@ -1576,6 +1576,34 @@ Entry level certification
   * Manufaturer ID
   * Serial Number
   
+### Collision and Broadcast Domains
+- Collision Domain
+  * Group of devices that are connected together that can hear eachothers collisions
+- Broadcast Domain
+  * Group of devices that will receieve a broadcast when one of teh devices in the group sends it
+
+### Spanning Tree Protocol
+- Broadcast Storm
+- Radia Perlman
+- aka STP
+- Prevents broadcast storms
+- Blocks redundant port
+- Forwards traffic on non-blocked ports
+- Uses Spanning Tree Protocol algorithim
+  * Bridge Protocol Data Units (BPDU)
+  * Shuts down a random port for a short period of time
+  * BPDU Filters - Shut down the port should teh switch receive the BPDU prevents future traffic from communicating
+
+### Etherchannel
+- "Virtual Link" built from multiple physical links
+- STP avoided
+- Uses LACP protocol to maintain "virtual link"
+- Link aggregation
+
+
+
+
+
 
 
 
