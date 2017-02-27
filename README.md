@@ -1566,6 +1566,15 @@ Entry level certification
   * 10GigabitEthernet Speed - 10Gbps
   * 40GigabitEthernet Speed - 40Gbps
 
+### The MAC Address and Frame Header
+- Ethernet Frame Header
+  * Destination MAC Address - 48 bit value
+  * Source MAC Address - 48 bit value
+  * Type - 16 bit value
+  * Data (Packet) - Varies
+  * FCS - 32 bit value
+  * Manufaturer ID
+  * Serial Number
   
 
 
