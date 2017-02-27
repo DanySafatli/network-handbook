@@ -1545,3 +1545,16 @@ Entry level certification
 
 ## 2.2 Examining Ethernet
 
+### Ethernet Operation
+- 1970 Bob Metcalf first version of ethernet
+- 1985 Ethernet II standardized via IEEE
+- 1995 100Mb Ethernet
+- CSMAD/CD
+  * Carrier Sense, Multiple Access with Collision Detection
+
+  
+
+
+
+
+
