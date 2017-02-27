@@ -1552,6 +1552,20 @@ Entry level certification
 - CSMAD/CD
   * Carrier Sense, Multiple Access with Collision Detection
 
+### Ethernet Duplex
+- Half duplex
+  * One device communicates at a time
+  * "Walky talkie"
+- Full duplex
+  * Two devices communicate at the same time
+  * "Telephone"
+- Ethernet Speed
+  * Ethernet Speed - 10Mbs (half duplex option)
+  * FastEthernet Speed - 100Mbps (half duplex option)
+  * GigabitEthernet Speed - 1Gbps
+  * 10GigabitEthernet Speed - 10Gbps
+  * 40GigabitEthernet Speed - 40Gbps
+
   
 
 
