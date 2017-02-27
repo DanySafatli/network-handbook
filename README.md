@@ -1600,7 +1600,9 @@ Entry level certification
 - Uses LACP protocol to maintain "virtual link"
 - Link aggregation
 
+## 2.3 Examining Ethernet VLANs
 
+###
 
 
 
