@@ -1648,8 +1648,19 @@ Entry level certification
   * Channels
     - Range of frequencies used to transmit data
     
-   
-  
+### Home/Small Business WiFi
+- Access Point
+- Wireless clients
+- BSS - Basic Service Set
+  * BSSID - MAC address
+- SSID - Service Set ID
+
+### 802.11 Basic Operation
+- SSID broadcast
+- MAC address filtering
+- Security
+- Larger WiFi Installations
+
   
   
 
