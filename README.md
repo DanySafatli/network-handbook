@@ -1614,9 +1614,34 @@ Entry level certification
   * Honey Pot
   * Network performance to seperate networks inside a network
 
+### VLAN Trunks
+- IEEE 802.1Q trunking protocol
+- Frames tagged with VLAN ID
+- Trunk ports = tagged frames
+- Access ports = untagged frames
+- The Native VLAN
+  * IEEE 802.1Q trunking protocol
+  * Trunk link with untagged frames
+  * Native VLAN traffic UNTAGGED!
+- VLAN Trunking Protocol
+  * aka VTP
+  * Quickly distributes VLANs to switches
+  * Quickly erases VLANs from switches
+  
+### VLANs and IP Addresses
+- Network Layer vs. Network Access Layer (aka Data Link Layer)
+- Network Layer
+  * Routers
+  * Packets
+  * IP addresses
+- Network Access Layer/Data Link Layer
+  * Switches
+  * Frames
+  * MAC addresses
 
 
+  
+  
 
-
-
+  
 
