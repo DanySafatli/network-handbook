@@ -1639,7 +1639,17 @@ Entry level certification
   * Frames
   * MAC addresses
 
+## 2.3 Examining Wireless Ethernet
 
+### Wireless Physics
+- Electromagnetic Spectrum
+  * Frequency
+    - Hertz-Cycles Per second
+  * Channels
+    - Range of frequencies used to transmit data
+    
+   
+  
   
   
 
