@@ -1602,8 +1602,17 @@ Entry level certification
 
 ## 2.3 Examining Ethernet VLANs
 
-###
-
+### VLANs and their uses
+- Virtual Local Area Network (VLAN)
+- VLAN is a broadcast domain
+- Multiple VLANs allowed on on switch
+- Isolate groups of devices from others
+- Reasons to use VLans
+  * Define groups in switch
+  * SCADA systems
+  * Legacy systems
+  * Honey Pot
+  * Network performance to seperate networks inside a network
 
 
 
