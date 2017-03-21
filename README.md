@@ -1,5 +1,7 @@
 # WIP_network-handbook
 
+comptia-network-(n10-006)_examobjectives.pdf - pdf that provides all the objectives for the exam 
+
 ## CompTIA+ Certification  
 
 Entry level certification
